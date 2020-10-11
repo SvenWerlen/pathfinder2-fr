@@ -1,0 +1,5 @@
+# Foulée libératrice
+
+<p><strong>Prérequis</strong> cause du libérateur</p>
+<hr>
+<p>Au lieu de Faire un pas à la fin de votre Pas libérateur, l’allié ayant déclenché ce pouvoir peut Marcher rapidement à la moitié de sa Vitesse.Même si vous avez exaltation, seul l’allié ayant déclenché ce pouvoir bénéficie de cet avantage.</p>
