@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Ingénuité halfeline
 
  * **Nom d'origine** : Halfling Ingenuity

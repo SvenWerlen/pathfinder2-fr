@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Guérison collective
 
  * **Nom d'origine** : Communal Healing

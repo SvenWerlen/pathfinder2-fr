@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Chasseur de fantômes
 
  * **Nom d'origine** : Ghost Hunter

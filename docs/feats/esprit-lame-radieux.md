@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Esprit lame radieux
 
  * **Nom d'origine** : Radiant Blade Spirit

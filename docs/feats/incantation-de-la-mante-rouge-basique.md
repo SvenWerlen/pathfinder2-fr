@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Incantation de la Mante rouge basique
 
  * **Nom d'origine** : Basic Red Mantis Magic

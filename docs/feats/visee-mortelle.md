@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Visée mortelle
 
  * **Nom d'origine** : Deadly Aim

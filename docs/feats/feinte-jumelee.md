@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Feinte jumelée
 
  * **Nom d'origine** : Twin Feint

@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Critique violent
 
  * **Nom d'origine** : Savage Critical

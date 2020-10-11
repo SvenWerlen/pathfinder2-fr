@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Poigne écrasante
 
  * **Nom d'origine** : Crushing Grab

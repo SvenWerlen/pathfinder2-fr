@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # rejeton infernal
 
  * **Nom d'origine** : Hellspawn

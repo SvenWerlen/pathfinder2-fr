@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Magie avancée de la Mante rouge
 
  * **Nom d'origine** : Advanced Red Mantis Magic

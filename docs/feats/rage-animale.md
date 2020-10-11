@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Rage animale
 
  * **Nom d'origine** : Animal Rage

@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Cheval de bataille fidèle
 
  * **Nom d'origine** : Loyal Warhorse

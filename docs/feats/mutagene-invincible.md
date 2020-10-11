@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Mutagène invincible
 
  * **Nom d'origine** : Invincible Mutagen

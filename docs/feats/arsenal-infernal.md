@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Arsenal infernal
 
  * **Nom d'origine** : Hell's Armaments

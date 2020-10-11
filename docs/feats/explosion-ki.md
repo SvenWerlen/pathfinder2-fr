@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Explosion ki
 
  * **Nom d'origine** : Ki Blast

@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Avantage du clan
 
  * **Nom d'origine** : Clan's Edge

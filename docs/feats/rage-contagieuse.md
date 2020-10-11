@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Rage contagieuse
 
  * **Nom d'origine** : Contagious Rage

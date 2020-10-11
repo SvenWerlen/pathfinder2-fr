@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Coup déséquilibrant
 
  * **Nom d'origine** : Unbalancing Blow

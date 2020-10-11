@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Frappe harassante
 
  * **Nom d'origine** : Harrying Strike

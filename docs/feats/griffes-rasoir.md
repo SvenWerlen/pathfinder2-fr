@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Griffes rasoir
 
  * **Nom d'origine** : Razor Claws

@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Dur à cuir
 
  * **Nom d'origine** : Diehard

@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Bombe fumigène
 
  * **Nom d'origine** : Smoke Bomb

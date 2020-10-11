@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Sténographie magique
 
  * **Nom d'origine** : Magical Shorthand

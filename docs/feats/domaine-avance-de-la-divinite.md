@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Domaine avancé de la divinité
 
  * **Nom d'origine** : Advanced Deity's Domain

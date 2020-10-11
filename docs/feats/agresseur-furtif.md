@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Agresseur furtif
 
  * **Nom d'origine** : Sneak Attacker

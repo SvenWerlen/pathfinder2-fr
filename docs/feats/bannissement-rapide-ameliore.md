@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Bannissement rapide amélioré
 
  * **Nom d'origine** : Improved Swift Banishment

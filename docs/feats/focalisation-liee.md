@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Focalisation liée
 
  * **Nom d'origine** : Linked Focus

@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Pouvoir du sang basique
 
  * **Nom d'origine** : Basic Blood Potency

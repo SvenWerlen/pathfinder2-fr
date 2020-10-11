@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Regard du gardemort
 
  * **Nom d'origine** : Tomb-Watcher's Glare

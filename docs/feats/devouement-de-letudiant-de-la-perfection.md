@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Dévouement de l'Étudiant de la Perfection
 
  * **Nom d'origine** : Student of Perfection Dedication

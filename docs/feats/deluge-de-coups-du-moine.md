@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Déluge de coups du moine
 
  * **Nom d'origine** : Monk's Flurry

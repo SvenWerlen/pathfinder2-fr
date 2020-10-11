@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Grand coup tranchant
 
  * **Nom d'origine** : Great Cleave

@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Assaut à deux mains
 
  * **Nom d'origine** : Dual-Handed Assault

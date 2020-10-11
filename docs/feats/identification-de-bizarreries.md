@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Identification de bizarreries
 
  * **Nom d'origine** : Oddity Identification

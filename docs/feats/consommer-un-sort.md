@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Consommer un sort
 
  * **Nom d'origine** : Consume Spell

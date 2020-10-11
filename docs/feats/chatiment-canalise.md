@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Châtiment canalisé
 
  * **Nom d'origine** : Channel Smite

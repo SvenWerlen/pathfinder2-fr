@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Déluge à deux armes
 
  * **Nom d'origine** : Two-Weapon Flurry

@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Soulagement d'affliction
 
  * **Nom d'origine** : Affliction Mercy

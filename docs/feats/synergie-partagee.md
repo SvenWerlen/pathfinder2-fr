@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Synergie partagée
 
  * **Nom d'origine** : Shared Synergy

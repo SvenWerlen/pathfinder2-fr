@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Bannissement rapide
 
  * **Nom d'origine** : Swift Banishment

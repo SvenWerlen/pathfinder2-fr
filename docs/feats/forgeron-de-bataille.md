@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # forgeron de bataille
 
  * **Nom d'origine** : Battleforger

@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Efficacité des sorts accrue
 
  * **Nom d'origine** : Spell Penetration

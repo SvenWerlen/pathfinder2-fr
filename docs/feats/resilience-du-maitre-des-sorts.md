@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Résilience du Maître des sorts
 
  * **Nom d'origine** : Spellmaster's Resilience

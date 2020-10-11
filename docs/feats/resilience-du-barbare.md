@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Résilience du barbare
 
  * **Nom d'origine** : Barbarian Resiliency

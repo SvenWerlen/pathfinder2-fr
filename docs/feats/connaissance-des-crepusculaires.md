@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Connaissance des crépusculaires
 
  * **Nom d'origine** : Duskwalker Lore

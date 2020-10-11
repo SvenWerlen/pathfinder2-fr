@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Formation au maniement d'armes évoluées
 
  * **Nom d'origine** : Advanced Weapon Training

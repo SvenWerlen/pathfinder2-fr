@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Dévouement de l'ensorceleur
 
  * **Nom d'origine** : Sorcerer Dedication

@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Incinération de morts-vivants
 
  * **Nom d'origine** : Cremate Undead

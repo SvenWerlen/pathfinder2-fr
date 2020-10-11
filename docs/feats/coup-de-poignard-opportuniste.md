@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Coup de poignard opportuniste
 
  * **Nom d'origine** : Opportune Backstab

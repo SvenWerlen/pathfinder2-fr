@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Investiture extraordinaire
 
  * **Nom d'origine** : Incredible Investiture

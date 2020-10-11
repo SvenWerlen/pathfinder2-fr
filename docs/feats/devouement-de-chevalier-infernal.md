@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Dévouement de Chevalier infernal
 
  * **Nom d'origine** : Hellknight Dedication

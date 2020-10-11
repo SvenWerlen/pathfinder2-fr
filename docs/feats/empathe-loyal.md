@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Empathe loyal
 
  * **Nom d'origine** : Loyal Empath

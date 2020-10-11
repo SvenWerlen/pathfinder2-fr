@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Compagnon spécialisé (Rodeur)
 
  * **Nom d'origine** : Specialized Companion (Ranger)

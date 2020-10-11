@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Incantation du magicien maître
 
  * **Nom d'origine** : Master Wizard Spellcasting

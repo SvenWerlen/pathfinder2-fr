@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Implorer les ancêtres
 
  * **Nom d'origine** : Entreat With Forebears

@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Résilence du champion
 
  * **Nom d'origine** : Champion Resiliency

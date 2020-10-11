@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Représailles à distance
 
  * **Nom d'origine** : Ranged Reprisal

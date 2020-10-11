@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Coupe dissipante
 
  * **Nom d'origine** : Dispelling Slice

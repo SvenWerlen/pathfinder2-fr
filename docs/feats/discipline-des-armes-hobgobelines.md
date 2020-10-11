@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Discipline des armes hobgobelines
 
  * **Nom d'origine** : Hobgoblin Weapon Discipline

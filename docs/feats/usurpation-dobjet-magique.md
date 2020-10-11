@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Usurpation d'objet magique
 
  * **Nom d'origine** : Trick Magic Item

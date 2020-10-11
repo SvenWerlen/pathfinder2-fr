@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Contrôle des morts-vivants amélioré
 
  * **Nom d'origine** : Improved Command Undead

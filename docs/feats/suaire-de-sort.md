@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Suaire de sort
 
  * **Nom d'origine** : Spell Shroud

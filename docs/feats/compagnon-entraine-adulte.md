@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Compagnon entraîné adulte
 
  * **Nom d'origine** : Mature Trained Companion

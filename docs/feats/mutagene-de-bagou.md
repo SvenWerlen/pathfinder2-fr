@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Mutagène de bagou
 
  * **Nom d'origine** : Glib Mutagen

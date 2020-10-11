@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Parangon touché par la vague
 
  * **Nom d'origine** : Wavetouched Paragon

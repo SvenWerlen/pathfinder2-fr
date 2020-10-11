@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Résistance du lignage
 
  * **Nom d'origine** : Bloodline Resistance

@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Danse en duel
 
  * **Nom d'origine** : Dueling Dance (Fighter)

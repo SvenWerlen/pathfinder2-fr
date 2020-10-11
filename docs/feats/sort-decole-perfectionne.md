@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Sort d'école perfectionné
 
  * **Nom d'origine** : Advanced School Spell

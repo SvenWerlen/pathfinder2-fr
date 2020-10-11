@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Magie des ordres
 
  * **Nom d'origine** : Order Magic

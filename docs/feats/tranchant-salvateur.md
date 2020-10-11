@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Tranchant salvateur
 
  * **Nom d'origine** : Saving Slash

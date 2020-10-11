@@ -115,6 +115,7 @@ def readCompendium(path):
 def dataToFile(data, filepath):
   
   with open(filepath, 'w') as df:
+    df.write("[Revenir à la liste](..)\n\n")
     df.write("# %s\n\n" % data['nameFR'])
     
     if 'metadata' in data:

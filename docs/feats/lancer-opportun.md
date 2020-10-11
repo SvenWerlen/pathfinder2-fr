@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Lancer opportun
 
  * **Nom d'origine** : Opportune Throw

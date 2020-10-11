@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Compagnon magistral
 
  * **Nom d'origine** : Masterful Companion

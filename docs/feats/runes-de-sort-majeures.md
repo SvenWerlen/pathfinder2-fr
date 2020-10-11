@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Runes de sort majeures
 
  * **Nom d'origine** : Greater Spell Runes

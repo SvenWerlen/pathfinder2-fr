@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Perspicacité astucieuse
 
  * **Nom d'origine** : Canny Acumen

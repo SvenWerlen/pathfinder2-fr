@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Chance partagée
 
  * **Nom d'origine** : Shared Luck (Halfling)

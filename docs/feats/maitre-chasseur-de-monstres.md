@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Maître chasseur de monstres
 
  * **Nom d'origine** : Master Monster Hunter

@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Revanche dans la gloire
 
  * **Nom d'origine** : Avenge in Glory

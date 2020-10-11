@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Âme de diamant
 
  * **Nom d'origine** : Diamond Soul

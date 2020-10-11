@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Frappe repoussante
 
  * **Nom d'origine** : Knockback Strike

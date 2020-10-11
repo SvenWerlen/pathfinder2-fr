@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Ombre des étendues sauvages
 
  * **Nom d'origine** : Shadow of the Wilds

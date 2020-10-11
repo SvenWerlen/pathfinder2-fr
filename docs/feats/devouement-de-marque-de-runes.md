@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Dévouement de Marqué de runes
 
  * **Nom d'origine** : Runescarred Dedication

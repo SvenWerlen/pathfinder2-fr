@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Chair fortifiée
 
  * **Nom d'origine** : Fortified Flesh

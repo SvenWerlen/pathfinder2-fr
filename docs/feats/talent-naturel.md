@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Talent naturel
 
  * **Nom d'origine** : Natural Skill

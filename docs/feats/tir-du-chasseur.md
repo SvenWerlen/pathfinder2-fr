@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Tir du chasseur
 
  * **Nom d'origine** : Hunted Shot

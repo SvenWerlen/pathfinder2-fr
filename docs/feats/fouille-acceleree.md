@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Fouille accélérée
 
  * **Nom d'origine** : Expeditious Search

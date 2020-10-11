@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Allonge agrippante
 
  * **Nom d'origine** : Grasping Reach

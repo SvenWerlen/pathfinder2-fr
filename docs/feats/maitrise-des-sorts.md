@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Maîtrise des sorts
 
  * **Nom d'origine** : Spell Mastery

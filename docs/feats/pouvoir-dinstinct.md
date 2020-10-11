@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Pouvoir d'instinct
 
  * **Nom d'origine** : Instinct Ability

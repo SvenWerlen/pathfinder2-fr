@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Insensible à la mort
 
  * **Nom d'origine** : Numb to Death

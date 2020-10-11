@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Mystificateur magique
 
  * **Nom d'origine** : Magical Trickster

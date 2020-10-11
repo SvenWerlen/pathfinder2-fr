@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Handicaps tactiques
 
  * **Nom d'origine** : Tactical Debilitations

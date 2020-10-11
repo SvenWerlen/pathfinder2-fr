@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Litanie contre la paresse
 
  * **Nom d'origine** : Litany Against Sloth

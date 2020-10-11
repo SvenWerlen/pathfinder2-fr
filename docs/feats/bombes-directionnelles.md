@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Bombes directionnelles
 
  * **Nom d'origine** : Directional Bombs

@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Incapacité persistante
 
  * **Nom d'origine** : Enduring Debilitation

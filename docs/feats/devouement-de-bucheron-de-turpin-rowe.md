@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Dévouement de Bûcheron de Turpin Rowe
 
  * **Nom d'origine** : Turpin Rowe Lumberjack Dedication

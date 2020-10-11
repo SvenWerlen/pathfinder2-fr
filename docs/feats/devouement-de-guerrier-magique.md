@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Dévouement de Guerrier Magique
 
  * **Nom d'origine** : Magic Warrior Dedication

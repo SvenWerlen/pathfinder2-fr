@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Lame du Serment écarlate
 
  * **Nom d'origine** : Blade of the Crimson Oath

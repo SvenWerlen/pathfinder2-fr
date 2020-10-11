@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Supplique empathique
 
  * **Nom d'origine** : Empathetic Plea

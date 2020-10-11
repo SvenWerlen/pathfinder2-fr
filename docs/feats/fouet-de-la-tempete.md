@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Fouet de la tempête
 
  * **Nom d'origine** : Storm’s Lash

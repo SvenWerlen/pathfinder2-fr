@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Défense jumelée
 
  * **Nom d'origine** : Twinned Defense (Fighter)

@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Riposte en duel
 
  * **Nom d'origine** : Dueling Riposte

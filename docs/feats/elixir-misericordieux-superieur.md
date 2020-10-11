@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Élixir miséricordieux supérieur
 
  * **Nom d'origine** : Greater Merciful Elixir

@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Résistance au poison
 
  * **Nom d'origine** : Poison Resistance

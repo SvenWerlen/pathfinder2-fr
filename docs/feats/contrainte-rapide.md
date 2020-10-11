@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Contrainte rapide
 
  * **Nom d'origine** : Quick Coercion

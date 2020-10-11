@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Sort éloigné
 
  * **Nom d'origine** : Reach Spell

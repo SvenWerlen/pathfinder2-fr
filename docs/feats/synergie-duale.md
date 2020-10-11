@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Synergie duale
 
  * **Nom d'origine** : Dualistic Synergy

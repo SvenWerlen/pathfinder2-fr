@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Compagnon furtif
 
  * **Nom d'origine** : Stealthy Companion

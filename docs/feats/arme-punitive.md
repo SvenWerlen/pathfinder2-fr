@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Arme Punitive
 
  * **Nom d'origine** : Castigating Weapon

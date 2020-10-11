@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Cordialité forcée
 
  * **Nom d'origine** : Glad-Hand

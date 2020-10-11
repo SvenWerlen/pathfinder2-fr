@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Aspect du Guerrier magique
 
  * **Nom d'origine** : Magic Warrior Aspect

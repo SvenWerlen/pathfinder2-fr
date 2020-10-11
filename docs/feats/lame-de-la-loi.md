@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Lame de la Loi
 
  * **Nom d'origine** : Blade of Law

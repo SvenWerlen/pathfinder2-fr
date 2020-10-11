@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Innovation avec les armes gnomes
 
  * **Nom d'origine** : Gnome Weapon Innovator

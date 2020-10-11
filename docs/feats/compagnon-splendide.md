@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Compagnon splendide
 
  * **Nom d'origine** : Splendid Companion

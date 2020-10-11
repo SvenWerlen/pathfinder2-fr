@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Contraindre un groupe
 
  * **Nom d'origine** : Group Coercion

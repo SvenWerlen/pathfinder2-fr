@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Riposte en duel améliorée
 
  * **Nom d'origine** : Improved Dueling Riposte

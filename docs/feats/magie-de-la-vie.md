@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Magie de la vie
 
  * **Nom d'origine** : Life-Giving Magic

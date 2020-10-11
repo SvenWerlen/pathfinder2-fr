@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Incantation de l'ensorceleur basique
 
  * **Nom d'origine** : Basic Sorcerer Spellcasting

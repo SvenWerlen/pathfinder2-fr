@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Syncrétisme
 
  * **Nom d'origine** : Syncretism

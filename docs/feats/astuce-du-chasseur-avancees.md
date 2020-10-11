@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Astuce du chasseur avancées
 
  * **Nom d'origine** : Advanced Hunter's Trick

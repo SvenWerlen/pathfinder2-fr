@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Combinaison de sorts
 
  * **Nom d'origine** : Spell Combination

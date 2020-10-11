@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Grande capacité d'étude
 
  * **Nom d'origine** : Studious Capacity

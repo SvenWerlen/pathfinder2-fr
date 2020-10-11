@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Posture de tir mobile
 
  * **Nom d'origine** : Mobile Shot Stance

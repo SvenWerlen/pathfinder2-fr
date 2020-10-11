@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Reconnaître des sorts
 
  * **Nom d'origine** : Recognize Spell

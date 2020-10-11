@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Hypercognition ultime
 
  * **Nom d'origine** : True Hypercognition

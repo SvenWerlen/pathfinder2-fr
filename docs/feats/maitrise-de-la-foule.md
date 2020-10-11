@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Maîtrise de la foule
 
  * **Nom d'origine** : Crowd Mastery

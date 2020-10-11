@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Incantation accélérée (Barde)
 
  * **Nom d'origine** : Quickened Casting

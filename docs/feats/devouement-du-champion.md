@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Dévouement du Champion
 
  * **Nom d'origine** : Champion Dedication

@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Résilience du Guerrier
 
  * **Nom d'origine** : Fighter Resiliency

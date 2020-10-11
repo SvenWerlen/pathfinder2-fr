@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Ruse avancée
 
  * **Nom d'origine** : Advanced Trickery

@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Échappatoire cognitive
 
  * **Nom d'origine** : Cognitive Loophole

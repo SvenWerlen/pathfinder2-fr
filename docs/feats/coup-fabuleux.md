@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Coup fabuleux
 
  * **Nom d'origine** : Awesome Blow

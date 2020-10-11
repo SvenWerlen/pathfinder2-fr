@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Survivaliste légendaire
 
  * **Nom d'origine** : Legendary Survivalist

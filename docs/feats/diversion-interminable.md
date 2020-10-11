@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Diversion interminable
 
  * **Nom d'origine** : Lengthy Diversion

@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Affabulateur
 
  * **Nom d'origine** : Confabulator

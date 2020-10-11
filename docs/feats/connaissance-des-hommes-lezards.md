@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Connaissance des hommes-lézards
 
  * **Nom d'origine** : Lizardfolk Lore

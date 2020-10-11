@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Dévouement de l'Orateur paisible
 
  * **Nom d'origine** : Halcyon Speaker Dedication

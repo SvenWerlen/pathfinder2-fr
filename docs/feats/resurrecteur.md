@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Résurrecteur
 
  * **Nom d'origine** : Resurrectionist

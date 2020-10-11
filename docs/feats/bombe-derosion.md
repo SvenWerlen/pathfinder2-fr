@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Bombe d'érosion
 
  * **Nom d'origine** : Exploitive Bomb

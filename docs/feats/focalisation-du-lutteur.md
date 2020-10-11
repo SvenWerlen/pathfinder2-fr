@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Focalisation du lutteur
 
  * **Nom d'origine** : Brawling Focus

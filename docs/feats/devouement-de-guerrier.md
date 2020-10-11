@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Dévouement de guerrier
 
  * **Nom d'origine** : Fighter Dedication

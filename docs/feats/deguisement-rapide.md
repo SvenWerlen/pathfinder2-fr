@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Déguisement rapide
 
  * **Nom d'origine** : Quick Disguise

@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Guérison collective améliorée
 
  * **Nom d'origine** : Improved Communal Healing

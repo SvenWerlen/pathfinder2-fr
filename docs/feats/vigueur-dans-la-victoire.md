@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Vigueur dans la victoire
 
  * **Nom d'origine** : Victorious Vigor

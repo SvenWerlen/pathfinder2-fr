@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Familiarité avec les armes hobgobelines
 
  * **Nom d'origine** : Hobgoblin Weapon Familiarity

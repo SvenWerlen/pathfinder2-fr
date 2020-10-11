@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Alliés silencieux
 
  * **Nom d'origine** : Quiet Allies

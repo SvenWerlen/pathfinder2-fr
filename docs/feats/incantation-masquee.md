@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Incantation masquée
 
  * **Nom d'origine** : Masked Casting

@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Lame de justice
 
  * **Nom d'origine** : Blade of Justice

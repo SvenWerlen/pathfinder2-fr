@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Lame solaire
 
  * **Nom d'origine** : Sun Blade

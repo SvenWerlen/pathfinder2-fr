@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Magie du Premier monde
 
  * **Nom d'origine** : First World Magic

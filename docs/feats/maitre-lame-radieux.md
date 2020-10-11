@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Maître lame radieux
 
  * **Nom d'origine** : Radiant Blade Master

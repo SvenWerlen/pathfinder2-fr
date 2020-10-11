@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Moment de lucidité
 
  * **Nom d'origine** : Moment of Clarity

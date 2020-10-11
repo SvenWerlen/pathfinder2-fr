@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Tir légendaire
 
  * **Nom d'origine** : Legendary Shot

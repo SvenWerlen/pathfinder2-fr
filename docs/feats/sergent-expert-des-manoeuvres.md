@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Sergent expert des manoeuvres
 
  * **Nom d'origine** : Expert Drill Sergeant

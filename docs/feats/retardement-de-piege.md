@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Retardement de piège
 
  * **Nom d'origine** : Delay Trap

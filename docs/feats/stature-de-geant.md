@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Stature de géant
 
  * **Nom d'origine** : Giant's Stature

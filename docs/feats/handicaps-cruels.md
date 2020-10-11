@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Handicaps cruels
 
  * **Nom d'origine** : Vicious Debilitations

@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Pacte d'ombre
 
  * **Nom d'origine** : Shadow Pact

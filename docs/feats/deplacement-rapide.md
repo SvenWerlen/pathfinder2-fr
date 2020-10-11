@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Déplacement rapide
 
  * **Nom d'origine** : Fast Movement

@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Deuxième allié
 
  * **Nom d'origine** : Second Ally

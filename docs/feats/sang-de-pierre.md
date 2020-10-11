@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Sang de pierre
 
  * **Nom d'origine** : Stone Blood

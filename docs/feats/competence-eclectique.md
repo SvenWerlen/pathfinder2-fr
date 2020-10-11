@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Compétence éclectique
 
  * **Nom d'origine** : Eclectic Skill

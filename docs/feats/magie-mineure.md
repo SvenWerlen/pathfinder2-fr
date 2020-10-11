@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Magie mineure
 
  * **Nom d'origine** : Minor Magic

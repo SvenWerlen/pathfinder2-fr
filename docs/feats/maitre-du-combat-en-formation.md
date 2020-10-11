@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Maître du combat en formation
 
  * **Nom d'origine** : Formation Master

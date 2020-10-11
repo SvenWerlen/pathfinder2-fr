@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Artiste légendaire
 
  * **Nom d'origine** : Legendary Performer

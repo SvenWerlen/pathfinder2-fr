@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Professionnel légendaire
 
  * **Nom d'origine** : Legendary Professional

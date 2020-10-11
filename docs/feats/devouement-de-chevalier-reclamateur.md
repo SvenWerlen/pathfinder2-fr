@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Dévouement de Chevalier réclamateur
 
  * **Nom d'origine** : Knight Reclaimant Dedication

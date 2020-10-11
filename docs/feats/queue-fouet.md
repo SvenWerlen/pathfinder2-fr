@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Queue fouet
 
  * **Nom d'origine** : Tail Whip

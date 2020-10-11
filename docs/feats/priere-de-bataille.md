@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Prière de bataille
 
  * **Nom d'origine** : Battle Prayer

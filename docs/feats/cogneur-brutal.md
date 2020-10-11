@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Cogneur brutal
 
  * **Nom d'origine** : Furious Bully

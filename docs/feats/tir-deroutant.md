@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Tir déroutant
 
  * **Nom d'origine** : Distracting Shot

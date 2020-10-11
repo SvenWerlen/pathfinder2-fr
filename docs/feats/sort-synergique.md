@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Sort synergique
 
  * **Nom d'origine** : Synergistic Spell

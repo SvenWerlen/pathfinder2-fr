@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Frappe pivotante
 
  * **Nom d'origine** : Pivot Strike

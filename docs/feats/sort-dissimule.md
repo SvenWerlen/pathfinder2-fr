@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Sort dissimulé
 
  * **Nom d'origine** : Conceal Spell

@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Astuce du chasseur basique
 
  * **Nom d'origine** : Basic Hunter's Trick

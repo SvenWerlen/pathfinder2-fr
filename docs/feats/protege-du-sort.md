@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Protégé du sort
 
  * **Nom d'origine** : Safeguarded Spell

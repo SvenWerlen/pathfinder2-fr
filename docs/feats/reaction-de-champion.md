@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Réaction de champion
 
  * **Nom d'origine** : Champion's Reaction

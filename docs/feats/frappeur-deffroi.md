@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Frappeur d'effroi
 
  * **Nom d'origine** : Dread Striker

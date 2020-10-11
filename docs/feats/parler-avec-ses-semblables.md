@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Parler avec ses semblables
 
  * **Nom d'origine** : Speak with Kindred

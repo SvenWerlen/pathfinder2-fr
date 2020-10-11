@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Puissance de l’Hiérophante
 
  * **Nom d'origine** : Hierophant's Power

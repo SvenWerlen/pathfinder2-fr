@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Médiateur monstrueux
 
  * **Nom d'origine** : Monstrous Peacemaker

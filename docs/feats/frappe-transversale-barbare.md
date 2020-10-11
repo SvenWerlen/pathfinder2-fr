@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Frappe transversale (Barbare)
 
  * **Nom d'origine** : Swipe

@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Chant funeste
 
  * **Nom d'origine** : Dirge of Doom

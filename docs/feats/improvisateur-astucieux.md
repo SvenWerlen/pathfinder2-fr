@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Improvisateur astucieux
 
  * **Nom d'origine** : Clever Improviser

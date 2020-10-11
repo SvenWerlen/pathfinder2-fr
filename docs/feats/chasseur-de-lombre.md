@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Chasseur de l'ombre
 
  * **Nom d'origine** : Shadow Hunter

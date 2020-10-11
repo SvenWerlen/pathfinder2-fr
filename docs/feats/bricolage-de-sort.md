@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Bricolage de sort
 
  * **Nom d'origine** : Spell Tinker

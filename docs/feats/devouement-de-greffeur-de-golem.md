@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Dévouement de Greffeur de golem
 
  * **Nom d'origine** : Golem Grafter Dedication

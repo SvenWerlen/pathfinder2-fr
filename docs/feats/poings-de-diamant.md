@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Poings de diamant
 
  * **Nom d'origine** : Diamond Fists

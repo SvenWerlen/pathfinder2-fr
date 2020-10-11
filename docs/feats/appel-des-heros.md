@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Appel des héros
 
  * **Nom d'origine** : Heroes' Call

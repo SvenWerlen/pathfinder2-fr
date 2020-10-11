@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Redoutable pièges artisanaux
 
  * **Nom d'origine** : Powerful Snares

@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Hurlement terrifiant
 
  * **Nom d'origine** : Terrifying Howl

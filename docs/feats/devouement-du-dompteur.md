@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Dévouement du Dompteur
 
  * **Nom d'origine** : Animal Trainer Dedication

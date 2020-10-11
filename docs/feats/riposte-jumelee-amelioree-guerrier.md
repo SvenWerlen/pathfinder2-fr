@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Riposte jumelée améliorée (Guerrier)
 
  * **Nom d'origine** : Improved Twin Riposte (Fighter)

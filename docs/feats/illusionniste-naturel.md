@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Illusionniste naturel
 
  * **Nom d'origine** : Natural Illusionist

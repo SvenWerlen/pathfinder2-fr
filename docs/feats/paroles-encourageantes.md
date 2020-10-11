@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Paroles encourageantes
 
  * **Nom d'origine** : Encouraging Words

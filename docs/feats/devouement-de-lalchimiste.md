@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Dévouement de l'alchimiste
 
  * **Nom d'origine** : Alchemist Dedication

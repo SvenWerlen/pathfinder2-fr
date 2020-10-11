@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Maîtrise de la métamagie (Ensorceleur)
 
  * **Nom d'origine** : Metamagic Mastery

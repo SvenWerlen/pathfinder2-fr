@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Certitude diabolique
 
  * **Nom d'origine** : Diabolic Certitude

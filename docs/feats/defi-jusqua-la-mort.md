@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Défi jusqu'à la mort
 
  * **Nom d'origine** : Defiance Unto Death

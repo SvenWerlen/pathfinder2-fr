@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Dévouement du roublard
 
  * **Nom d'origine** : Rogue Dedication

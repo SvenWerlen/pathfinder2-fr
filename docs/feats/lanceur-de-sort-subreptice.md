@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Lanceur de sort subreptice
 
  * **Nom d'origine** : Surreptitious Spellcaster

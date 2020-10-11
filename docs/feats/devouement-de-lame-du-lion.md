@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Dévouement de Lame du Lion
 
  * **Nom d'origine** : Lion Blade Dedication

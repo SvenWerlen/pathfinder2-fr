@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Guérison de destrier
 
  * **Nom d'origine** : Heal Mount

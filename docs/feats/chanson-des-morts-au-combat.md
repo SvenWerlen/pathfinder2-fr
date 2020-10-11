@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Chanson des morts au combat
 
  * **Nom d'origine** : Song of the Fallen

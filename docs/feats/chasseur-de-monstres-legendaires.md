@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Chasseur de monstres légendaires
 
  * **Nom d'origine** : Legendary Monster Hunter

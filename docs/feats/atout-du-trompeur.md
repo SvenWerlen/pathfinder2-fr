@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Atout du trompeur
 
  * **Nom d'origine** : Trickster's Ace

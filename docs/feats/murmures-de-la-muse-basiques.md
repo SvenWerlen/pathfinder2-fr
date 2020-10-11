@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Murmures de la muse basiques
 
  * **Nom d'origine** : Basic Muse's Whispers

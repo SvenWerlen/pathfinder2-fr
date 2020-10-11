@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Perspicacité théorique
 
  * **Nom d'origine** : Theoretical Acumen

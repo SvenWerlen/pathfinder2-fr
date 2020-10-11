@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Arme enchantée
 
  * **Nom d'origine** : Bespell Weapon

@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Absorption de sort
 
  * **Nom d'origine** : Absorb Spell

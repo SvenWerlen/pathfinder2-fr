@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Dévouement du magicien
 
  * **Nom d'origine** : Wizard Dedication

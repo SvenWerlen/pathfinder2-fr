@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Endurer le contact de la mort
 
  * **Nom d'origine** : Endure Death's Touch

@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Technique invraisemblable
 
  * **Nom d'origine** : Impossible Technique

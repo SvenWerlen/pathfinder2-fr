@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Frappe perfide
 
  * **Nom d'origine** : Sly Striker

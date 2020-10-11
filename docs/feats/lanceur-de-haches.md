@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Lanceur de haches
 
  * **Nom d'origine** : Axe Thrower

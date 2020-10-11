@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Tir pénétrant
 
  * **Nom d'origine** : Penetrating Shot

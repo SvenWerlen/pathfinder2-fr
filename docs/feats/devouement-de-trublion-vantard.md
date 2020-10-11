@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Dévouement de Trublion vantard
 
  * **Nom d'origine** : Firebrand Braggart Dedication

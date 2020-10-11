@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Chant Gobelin
 
  * **Nom d'origine** : Goblin Song

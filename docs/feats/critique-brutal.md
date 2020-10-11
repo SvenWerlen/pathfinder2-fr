@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Critique brutal
 
  * **Nom d'origine** : Brutal Critical

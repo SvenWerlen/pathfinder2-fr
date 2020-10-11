@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Domaine de la divinité
 
  * **Nom d'origine** : Deity's Domain

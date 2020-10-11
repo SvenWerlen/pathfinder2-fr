@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Soins mortels
 
  * **Nom d'origine** : Mortal Healing

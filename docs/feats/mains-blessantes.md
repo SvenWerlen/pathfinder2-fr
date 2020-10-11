@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Mains blessantes
 
  * **Nom d'origine** : Harming Hands

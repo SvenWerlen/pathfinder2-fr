@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Attaque groupée
 
  * **Nom d'origine** : Gang Up

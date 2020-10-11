@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Appel au compagnon
 
  * **Nom d'origine** : Companion's Cry

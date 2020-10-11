@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Tir de soutien
 
  * **Nom d'origine** : Assisting Shot

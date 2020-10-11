@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Magie du cristal simple
 
  * **Nom d'origine** : Simple Crystal Magic

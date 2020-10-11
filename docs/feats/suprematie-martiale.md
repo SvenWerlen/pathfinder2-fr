@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Suprématie martiale
 
  * **Nom d'origine** : Weapon Supremacy

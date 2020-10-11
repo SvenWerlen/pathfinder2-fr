@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Mutagène de génie
 
  * **Nom d'origine** : Genius Mutagen

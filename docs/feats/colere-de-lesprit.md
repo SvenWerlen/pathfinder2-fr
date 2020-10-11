@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Colère de l'esprit
 
  * **Nom d'origine** : Spirit's Wrath

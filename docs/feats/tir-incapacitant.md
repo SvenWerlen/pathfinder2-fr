@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Tir incapacitant
 
  * **Nom d'origine** : Debilitating Shot

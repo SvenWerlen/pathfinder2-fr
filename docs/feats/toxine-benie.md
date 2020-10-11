@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Toxine bénie
 
  * **Nom d'origine** : Bless Toxin

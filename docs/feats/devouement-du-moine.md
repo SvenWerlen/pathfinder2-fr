@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Dévouement du moine
 
  * **Nom d'origine** : Monk Dedication

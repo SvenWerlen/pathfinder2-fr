@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Contrôle des morts-vivants
 
  * **Nom d'origine** : Command Undead

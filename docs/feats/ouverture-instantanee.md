@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Ouverture instantanée
 
  * **Nom d'origine** : Instant Opening

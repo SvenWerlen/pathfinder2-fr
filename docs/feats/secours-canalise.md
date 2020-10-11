@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Secours canalisé
 
  * **Nom d'origine** : Channeled Succor

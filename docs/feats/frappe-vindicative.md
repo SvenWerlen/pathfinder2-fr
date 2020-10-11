@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Frappe vindicative
 
  * **Nom d'origine** : Vengeful Strike

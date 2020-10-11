@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Dévouement de barbare
 
  * **Nom d'origine** : Barbarian Dedication

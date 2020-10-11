@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Allié divin
 
  * **Nom d'origine** : Divine Ally

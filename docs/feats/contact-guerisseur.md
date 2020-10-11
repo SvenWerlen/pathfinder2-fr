@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Contact guérisseur
 
  * **Nom d'origine** : Healing Touch

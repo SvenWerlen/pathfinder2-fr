@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Ténacité nécromantique
 
  * **Nom d'origine** : Necromantic Tenacity

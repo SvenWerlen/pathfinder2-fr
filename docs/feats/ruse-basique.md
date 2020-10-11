@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Ruse basique
 
  * **Nom d'origine** : Basic Trickery

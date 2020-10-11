@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Infirmier légendaire
 
  * **Nom d'origine** : Legendary Medic

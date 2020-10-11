@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Résistance nécromantique
 
  * **Nom d'origine** : Necromantic Resistance

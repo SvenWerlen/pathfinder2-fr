@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Furie basique
 
  * **Nom d'origine** : Basic Fury

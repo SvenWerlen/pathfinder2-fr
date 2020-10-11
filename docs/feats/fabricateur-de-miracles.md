@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Fabricateur de miracles
 
  * **Nom d'origine** : Miracle Worker

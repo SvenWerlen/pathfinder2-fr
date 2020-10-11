@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Formation généraliste
 
  * **Nom d'origine** : General Training

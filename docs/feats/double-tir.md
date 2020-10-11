@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Double tir
 
  * **Nom d'origine** : Double Shot

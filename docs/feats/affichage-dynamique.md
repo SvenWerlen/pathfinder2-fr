@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Affichage dynamique
 
  * **Nom d'origine** : Vibrant Display

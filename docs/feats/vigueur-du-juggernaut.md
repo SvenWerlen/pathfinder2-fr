@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Vigueur du juggernaut
 
  * **Nom d'origine** : Juggernaut's Fortitude

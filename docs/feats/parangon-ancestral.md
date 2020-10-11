@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Parangon ancestral
 
  * **Nom d'origine** : Ancestral Paragon

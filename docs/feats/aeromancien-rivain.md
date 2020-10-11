@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Aéromancien Rivain
 
  * **Nom d'origine** : Shory Aeromancer

@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Pouvoir du sang avancé
 
  * **Nom d'origine** : Advanced Blood Potency

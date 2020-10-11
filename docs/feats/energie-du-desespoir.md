@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Énergie du désespoir
 
  * **Nom d'origine** : Ravening's Desperation

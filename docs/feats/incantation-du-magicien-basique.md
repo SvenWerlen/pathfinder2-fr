@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Incantation du magicien basique
 
  * **Nom d'origine** : Basic Wizard Spellcasting

@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Avocat du diable
 
  * **Nom d'origine** : Devil's Advocate

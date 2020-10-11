@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Locuteur bestial
 
  * **Nom d'origine** : Beast Speaker

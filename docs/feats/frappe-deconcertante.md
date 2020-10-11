@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Frappe déconcertante
 
  * **Nom d'origine** : Snagging Strike

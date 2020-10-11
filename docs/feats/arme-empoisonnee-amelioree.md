@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Arme empoisonnée améliorée
 
  * **Nom d'origine** : Improved Poison Weapon

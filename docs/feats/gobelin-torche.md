@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Gobelin torche
 
  * **Nom d'origine** : Torch Goblin

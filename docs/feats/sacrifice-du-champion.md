@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Sacrifice du Champion
 
  * **Nom d'origine** : Champion's Sacrifice

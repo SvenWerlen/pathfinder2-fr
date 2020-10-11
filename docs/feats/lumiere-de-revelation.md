@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Lumière de révélation
 
  * **Nom d'origine** : Light of Revelation

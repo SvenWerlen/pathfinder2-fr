@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Dénicheur de dangers
 
  * **Nom d'origine** : Hazard Finder

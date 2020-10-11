@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Destrier imposant
 
  * **Nom d'origine** : Imposing Destrier

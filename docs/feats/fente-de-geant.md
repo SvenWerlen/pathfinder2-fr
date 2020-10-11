@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Fente de géant
 
  * **Nom d'origine** : Giant's Lunge

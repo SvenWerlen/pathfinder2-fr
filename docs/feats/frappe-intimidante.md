@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Frappe intimidante
 
  * **Nom d'origine** : Intimidating Strike

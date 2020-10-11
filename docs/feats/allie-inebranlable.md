@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Allié inébranlable
 
  * **Nom d'origine** : Steadfast Ally

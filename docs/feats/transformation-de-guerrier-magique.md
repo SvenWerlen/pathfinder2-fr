@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Transformation de Guerrier magique
 
  * **Nom d'origine** : Magic Warrior Transformation

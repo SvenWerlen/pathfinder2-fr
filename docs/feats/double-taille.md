@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Double taille
 
  * **Nom d'origine** : Double Slice

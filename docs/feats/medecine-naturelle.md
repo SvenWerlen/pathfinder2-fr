@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Médecine naturelle
 
  * **Nom d'origine** : Natural Medicine

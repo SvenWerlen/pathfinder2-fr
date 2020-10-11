@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Dévouement d'Éclaireur
 
  * **Nom d'origine** : Pathfinder Agent Dedication

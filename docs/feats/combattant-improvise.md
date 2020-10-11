@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Combattant improvisé
 
  * **Nom d'origine** : Improvisational Warrior

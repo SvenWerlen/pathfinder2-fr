@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Ailes de rage du dragon
 
  * **Nom d'origine** : Dragon's Rage Wings

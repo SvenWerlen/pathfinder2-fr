@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Dévouement de Monolithe vivant
 
  * **Nom d'origine** : Living Monolith Dedication

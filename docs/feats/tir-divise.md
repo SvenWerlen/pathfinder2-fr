@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Tir divisé
 
  * **Nom d'origine** : Split Shot

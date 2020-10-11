@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Frappe contrôlée
 
  * **Nom d'origine** : Exacting Strike

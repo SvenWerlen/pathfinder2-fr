@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Corps doré
 
  * **Nom d'origine** : Golden Body

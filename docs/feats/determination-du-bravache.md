@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Détermination du bravache
 
  * **Nom d'origine** : Bravo's Determination

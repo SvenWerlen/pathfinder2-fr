@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Polyvalence des sorts emblématiques
 
  * **Nom d'origine** : Versatile Signature

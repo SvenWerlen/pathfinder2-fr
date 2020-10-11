@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Canalisation dirigée
 
  * **Nom d'origine** : Directed Channel

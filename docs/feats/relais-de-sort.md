@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # relais de sort
 
  * **Nom d'origine** : Spell Relay

@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Dévouement de Duelliste Aldori
 
  * **Nom d'origine** : Aldori Duelist Dedication

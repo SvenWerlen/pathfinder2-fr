@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Mage ancestral
 
  * **Nom d'origine** : Ancestral Mage

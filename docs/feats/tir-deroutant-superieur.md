@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Tir déroutant supérieur
 
  * **Nom d'origine** : Greater Distracting Shot

@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Désarmement implacable
 
  * **Nom d'origine** : Relentless Disarm

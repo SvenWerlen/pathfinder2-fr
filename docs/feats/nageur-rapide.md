@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Nageur rapide
 
  * **Nom d'origine** : Swift Swimmer

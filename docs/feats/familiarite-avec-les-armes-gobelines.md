@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Familiarité avec les armes gobelines
 
  * **Nom d'origine** : Goblin Weapon Familiarity

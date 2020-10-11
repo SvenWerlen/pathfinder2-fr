@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Férocité extraordinaire
 
  * **Nom d'origine** : Incredible Ferocity

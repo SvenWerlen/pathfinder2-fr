@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Lanceur enragé
 
  * **Nom d'origine** : Raging Thrower

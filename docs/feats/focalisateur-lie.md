@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Focalisateur lié
 
  * **Nom d'origine** : Bonded Focus

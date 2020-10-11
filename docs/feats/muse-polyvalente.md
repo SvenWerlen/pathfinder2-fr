@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Muse polyvalente
 
  * **Nom d'origine** : Multifarious Muse

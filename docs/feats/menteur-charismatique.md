@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Menteur charismatique
 
  * **Nom d'origine** : Charming Liar

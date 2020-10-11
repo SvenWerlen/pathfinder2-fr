@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Charge soudaine
 
  * **Nom d'origine** : Sudden Charge

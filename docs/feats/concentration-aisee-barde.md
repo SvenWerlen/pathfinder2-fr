@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Concentration aisée (Barde)
 
  * **Nom d'origine** : Effortless Concentration

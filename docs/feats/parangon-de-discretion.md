@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Parangon de discrétion
 
  * **Nom d'origine** : Hidden Paragon

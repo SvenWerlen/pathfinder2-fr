@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Canalisation rapide
 
  * **Nom d'origine** : Fast Channel

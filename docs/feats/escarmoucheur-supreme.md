@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Escarmoucheur suprême
 
  * **Nom d'origine** : Ultimate Skirmisher

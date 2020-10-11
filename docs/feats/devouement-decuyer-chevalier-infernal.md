@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Dévouement d'Écuyer Chevalier infernal
 
  * **Nom d'origine** : Hellknight Armiger Dedication

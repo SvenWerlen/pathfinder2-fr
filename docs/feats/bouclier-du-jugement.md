@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Bouclier du jugement
 
  * **Nom d'origine** : Shield of Reckoning

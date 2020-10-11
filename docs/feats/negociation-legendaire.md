@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Négociation légendaire
 
  * **Nom d'origine** : Legendary Negotiation

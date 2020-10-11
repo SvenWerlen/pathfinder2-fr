@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Rapidité persistante
 
  * **Nom d'origine** : Enduring Quickness

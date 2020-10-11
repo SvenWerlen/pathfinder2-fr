@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Frappe fracassante
 
  * **Nom d'origine** : Shattering Strike (Monk)

@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Connaissance des kobolds
 
  * **Nom d'origine** : Kobold Lore

@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Connaissance hobgobeline
 
  * **Nom d'origine** : Hobgoblin Lore

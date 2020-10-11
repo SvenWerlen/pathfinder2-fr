@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Expertise avec les armes hobgobelines
 
  * **Nom d'origine** : Hobgoblin Weapon Expertise

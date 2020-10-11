@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Manoeuvre mixte
 
  * **Nom d'origine** : Mixed Maneuver

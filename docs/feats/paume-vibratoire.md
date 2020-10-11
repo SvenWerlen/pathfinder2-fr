@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Paume vibratoire
 
  * **Nom d'origine** : Quivering Palm

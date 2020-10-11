@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Tir de loin
 
  * **Nom d'origine** : Far Shot

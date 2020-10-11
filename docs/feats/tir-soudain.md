@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Tir soudain
 
  * **Nom d'origine** : Snap Shot

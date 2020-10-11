@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Traction du loup
 
  * **Nom d'origine** : Wolf Drag

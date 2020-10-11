@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Puiser dans votre résolution
 
  * **Nom d'origine** : Steel Your Resolve

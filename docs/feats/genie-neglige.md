@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Génie négligé
 
  * **Nom d'origine** : Overlooked Mastermind

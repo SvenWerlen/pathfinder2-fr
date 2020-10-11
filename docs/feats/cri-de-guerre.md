@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Cri de guerre
 
  * **Nom d'origine** : Battle Cry

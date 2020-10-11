@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Voleur légendaire
 
  * **Nom d'origine** : Legendary Thief

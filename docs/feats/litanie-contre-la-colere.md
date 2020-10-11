@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Litanie contre la colère
 
  * **Nom d'origine** : Litany Against Wrath

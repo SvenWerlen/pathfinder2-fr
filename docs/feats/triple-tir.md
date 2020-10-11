@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Triple tir
 
  * **Nom d'origine** : Triple Shot

@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Mégabombe
 
  * **Nom d'origine** : Mega Bomb

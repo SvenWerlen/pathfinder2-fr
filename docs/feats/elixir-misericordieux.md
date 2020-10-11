@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Élixir miséricordieux
 
  * **Nom d'origine** : Merciful Elixir

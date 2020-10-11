@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Prolongement de l'arsenal aligné
 
  * **Nom d'origine** : Extend Armament Alignment

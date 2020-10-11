@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Focalisation inspirante
 
  * **Nom d'origine** : Inspirational Focus

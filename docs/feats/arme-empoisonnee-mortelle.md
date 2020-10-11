@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Arme empoisonnée mortelle
 
  * **Nom d'origine** : Deadly Poison Weapon

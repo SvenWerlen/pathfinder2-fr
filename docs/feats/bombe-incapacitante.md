@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Bombe incapacitante
 
  * **Nom d'origine** : Debilitating Bomb

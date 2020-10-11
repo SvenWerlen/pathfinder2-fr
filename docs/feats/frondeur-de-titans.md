@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Frondeur de titans
 
  * **Nom d'origine** : Titan Slinger

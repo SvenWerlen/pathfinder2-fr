@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Empoignade en combat
 
  * **Nom d'origine** : Combat Grab

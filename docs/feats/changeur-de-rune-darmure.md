@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Changeur de rune d'armure
 
  * **Nom d'origine** : Armor Rune Shifter

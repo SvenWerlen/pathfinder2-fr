@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Compagnon spécialisé (Dompteur)
 
  * **Nom d'origine** : Specialized Companion (Animal Trainer)

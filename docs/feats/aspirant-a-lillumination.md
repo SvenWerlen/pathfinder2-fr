@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Aspirant à l'illumination
 
  * **Nom d'origine** : Brightness Seeker

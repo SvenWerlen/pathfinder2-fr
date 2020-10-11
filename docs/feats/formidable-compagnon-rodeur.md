@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Formidable compagnon (Rôdeur)
 
  * **Nom d'origine** : Incredible Companion (Ranger)

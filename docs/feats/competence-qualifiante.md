@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Compétence qualifiante
 
  * **Nom d'origine** : Skill Training

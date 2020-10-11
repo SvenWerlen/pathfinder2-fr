@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Bonne impression de groupe
 
  * **Nom d'origine** : Group Impression

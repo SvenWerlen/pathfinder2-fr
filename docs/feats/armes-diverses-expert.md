@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Armes diverses expert
 
  * **Nom d'origine** : Diverse Weapon Expert

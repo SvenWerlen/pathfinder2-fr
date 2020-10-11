@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Manœuvre téméraire
 
  * **Nom d'origine** : Daredevil's Gambit

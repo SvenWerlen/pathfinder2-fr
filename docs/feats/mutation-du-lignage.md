@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Mutation du lignage
 
  * **Nom d'origine** : Bloodline Mutation

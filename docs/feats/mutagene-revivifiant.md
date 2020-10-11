@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Mutagène revivifiant
 
  * **Nom d'origine** : Revivifying Mutagen

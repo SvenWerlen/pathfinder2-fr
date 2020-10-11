@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Arme empoisonnée
 
  * **Nom d'origine** : Poison Weapon

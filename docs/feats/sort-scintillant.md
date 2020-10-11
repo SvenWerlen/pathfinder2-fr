@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Sort scintillant
 
  * **Nom d'origine** : Scintillating Spell

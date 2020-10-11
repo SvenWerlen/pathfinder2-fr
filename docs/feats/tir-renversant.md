@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Tir renversant
 
  * **Nom d'origine** : Felling Shot

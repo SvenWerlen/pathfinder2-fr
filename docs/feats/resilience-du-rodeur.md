@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Résilience du rôdeur
 
  * **Nom d'origine** : Ranger Resiliency

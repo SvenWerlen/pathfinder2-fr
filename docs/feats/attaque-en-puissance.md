@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Attaque en puissance
 
  * **Nom d'origine** : Power Attack

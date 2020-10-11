@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Coupe-limace
 
  * **Nom d'origine** : Leech-Clipper

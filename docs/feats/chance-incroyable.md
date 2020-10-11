@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Chance incroyable
 
  * **Nom d'origine** : Incredible Luck (Halfling)

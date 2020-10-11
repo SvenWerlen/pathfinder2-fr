@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Assaut avantageux
 
  * **Nom d'origine** : Advantageous Assault

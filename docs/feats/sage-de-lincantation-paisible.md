@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Sage de l'Incantation paisible
 
  * **Nom d'origine** : Halcyon Spellcasting Sage

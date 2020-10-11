@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Bombe collante
 
  * **Nom d'origine** : Sticky Bomb

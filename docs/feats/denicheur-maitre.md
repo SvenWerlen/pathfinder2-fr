@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Dénicheur maître
 
  * **Nom d'origine** : Master Spotter (Ranger)

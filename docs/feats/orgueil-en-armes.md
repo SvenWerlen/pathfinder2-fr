@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Orgueil en armes
 
  * **Nom d'origine** : Pride in Arms

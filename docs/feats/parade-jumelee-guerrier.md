@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Parade jumelée (Guerrier)
 
  * **Nom d'origine** : Twin Parry

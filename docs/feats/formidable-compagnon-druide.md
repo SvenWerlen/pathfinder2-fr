@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Formidable compagnon (Druide)
 
  * **Nom d'origine** : Incredible Companion (Druid)

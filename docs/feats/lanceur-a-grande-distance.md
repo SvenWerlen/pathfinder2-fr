@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Lanceur à grande distance
 
  * **Nom d'origine** : Far Lobber

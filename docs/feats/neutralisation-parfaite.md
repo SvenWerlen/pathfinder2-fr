@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Neutralisation parfaite
 
  * **Nom d'origine** : Perfect Debilitation

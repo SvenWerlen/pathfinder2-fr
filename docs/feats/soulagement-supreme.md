@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Soulagement suprême
 
  * **Nom d'origine** : Ultimate Mercy

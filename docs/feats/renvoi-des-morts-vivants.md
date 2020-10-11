@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Renvoi des morts-vivants
 
  * **Nom d'origine** : Turn Undead

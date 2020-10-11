@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Dévouement d'Assassin des Mantes rouges
 
  * **Nom d'origine** : Red Mantis Assassin Dedication

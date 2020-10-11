@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # ruse à mains nues Iruxi
 
  * **Nom d'origine** : Iruxi Unarmed Cunning

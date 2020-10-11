@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Mains guérisseuses
 
  * **Nom d'origine** : Healing Hands

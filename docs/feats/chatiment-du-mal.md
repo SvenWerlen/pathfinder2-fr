@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Châtiment du mal
 
  * **Nom d'origine** : Smite Evil

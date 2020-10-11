@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Empoignaded furieuse
 
  * **Nom d'origine** : Furious Grab

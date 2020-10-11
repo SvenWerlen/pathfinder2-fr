@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Chasseur de monstres
 
  * **Nom d'origine** : Monster Hunter

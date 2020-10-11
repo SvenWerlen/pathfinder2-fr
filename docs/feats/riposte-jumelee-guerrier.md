@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Riposte jumelée (Guerrier)
 
  * **Nom d'origine** : Twin Riposte

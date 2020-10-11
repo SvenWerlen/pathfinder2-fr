@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Magie bizarre
 
  * **Nom d'origine** : Bizarre Magic

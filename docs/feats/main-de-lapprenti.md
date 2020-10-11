@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Main de l'apprenti
 
  * **Nom d'origine** : Hand of the Apprentice

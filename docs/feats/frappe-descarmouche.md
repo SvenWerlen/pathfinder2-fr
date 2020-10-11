@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Frappe d'escarmouche
 
  * **Nom d'origine** : Skirmish Strike

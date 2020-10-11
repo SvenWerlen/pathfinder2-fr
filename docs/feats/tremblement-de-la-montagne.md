@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Tremblement de la montagne
 
  * **Nom d'origine** : Mountain Quake

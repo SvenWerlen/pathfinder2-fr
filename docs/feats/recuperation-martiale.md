@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Récupération martiale
 
  * **Nom d'origine** : Replenishment of War

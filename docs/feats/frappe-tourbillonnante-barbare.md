@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Frappe tourbillonnante (Barbare)
 
  * **Nom d'origine** : Whirlwind Strike

@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Afflux de sang de fer
 
  * **Nom d'origine** : Ironblood Surge

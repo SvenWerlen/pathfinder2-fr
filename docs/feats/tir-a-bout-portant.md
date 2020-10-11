@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Tir à bout portant
 
  * **Nom d'origine** : Point-Blank Shot

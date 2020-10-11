@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Sang béni
 
  * **Nom d'origine** : Blessed Blood (Sorcerer)

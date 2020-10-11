@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Antimagie blasonnée
 
  * **Nom d'origine** : Emblazon Antimagic

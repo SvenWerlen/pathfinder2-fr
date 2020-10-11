@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Dévouement du prêtre
 
  * **Nom d'origine** : Cleric Dedication

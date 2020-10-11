@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Frappe entraînante
 
  * **Nom d'origine** : Dragging Strike

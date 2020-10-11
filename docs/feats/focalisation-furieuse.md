@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Focalisation furieuse
 
  * **Nom d'origine** : Furious Focus

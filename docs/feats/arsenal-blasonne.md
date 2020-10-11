@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Arsenal blasonné
 
  * **Nom d'origine** : Emblazon Armament

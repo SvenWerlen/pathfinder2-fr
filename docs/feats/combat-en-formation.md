@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Combat en formation
 
  * **Nom d'origine** : Formation Training

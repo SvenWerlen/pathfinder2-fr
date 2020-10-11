@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Arsenal aligné
 
  * **Nom d'origine** : Align Armament

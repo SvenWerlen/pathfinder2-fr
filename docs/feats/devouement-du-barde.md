@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Dévouement du barde
 
  * **Nom d'origine** : Bard Dedication

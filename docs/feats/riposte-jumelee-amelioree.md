@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Riposte jumelée améliorée
 
  * **Nom d'origine** : Improved Twin Riposte (Ranger)

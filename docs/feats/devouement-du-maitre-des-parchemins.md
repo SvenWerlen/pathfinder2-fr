@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Dévouement du Maître des parchemins
 
  * **Nom d'origine** : Scrollmaster Dedication

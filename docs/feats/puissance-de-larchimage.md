@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Puissance de l'archimage
 
  * **Nom d'origine** : Archwizard's Might

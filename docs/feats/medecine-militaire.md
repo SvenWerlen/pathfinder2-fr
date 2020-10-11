@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Médecine militaire
 
  * **Nom d'origine** : Battle Medicine

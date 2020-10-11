@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Frénésie avec les armes gobelines
 
  * **Nom d'origine** : Goblin Weapon Frenzy

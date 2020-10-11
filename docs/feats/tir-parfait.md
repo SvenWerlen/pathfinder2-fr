@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Tir parfait
 
  * **Nom d'origine** : Perfect Shot

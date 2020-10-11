@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Maître des postures
 
  * **Nom d'origine** : Stance Savant (Fighter)

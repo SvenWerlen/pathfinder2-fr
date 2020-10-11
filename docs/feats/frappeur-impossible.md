@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Frappeur impossible
 
  * **Nom d'origine** : Impossible Striker

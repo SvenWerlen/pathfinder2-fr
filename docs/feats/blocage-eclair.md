@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Blocage éclair
 
  * **Nom d'origine** : Quick Block

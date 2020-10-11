@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Poing étourdissant
 
  * **Nom d'origine** : Stunning Fist

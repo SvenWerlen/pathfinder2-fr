@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Synergie fulminante
 
  * **Nom d'origine** : Fulminating Synergy

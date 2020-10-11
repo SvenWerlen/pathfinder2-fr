@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Artificier rapide
 
  * **Nom d'origine** : Quick Bomber

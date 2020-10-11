@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Souffle de rage du dragon
 
  * **Nom d'origine** : Dragon's Rage Breath

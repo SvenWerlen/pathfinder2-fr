@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Juggernaut invulnérable
 
  * **Nom d'origine** : Invulnerable Juggernaut

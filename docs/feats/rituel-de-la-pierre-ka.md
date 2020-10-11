@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Rituel de la pierre Ka
 
  * **Nom d'origine** : Ka Stone Ritual

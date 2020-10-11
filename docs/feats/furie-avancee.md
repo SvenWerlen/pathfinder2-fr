@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Furie avancée
 
  * **Nom d'origine** : Advanced Fury

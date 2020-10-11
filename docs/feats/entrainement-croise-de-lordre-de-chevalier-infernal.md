@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Entraînement croisé de l'Ordre de Chevalier infernal
 
  * **Nom d'origine** : Hellknight Order Cross-Training

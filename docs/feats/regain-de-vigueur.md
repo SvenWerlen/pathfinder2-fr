@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Regain de vigueur
 
  * **Nom d'origine** : Renewed Vigor

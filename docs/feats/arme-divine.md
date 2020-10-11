@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Arme divine
 
  * **Nom d'origine** : Divine Weapon

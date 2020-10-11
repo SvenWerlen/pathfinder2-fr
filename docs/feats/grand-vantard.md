@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Grand vantard
 
  * **Nom d'origine** : Great Boaster

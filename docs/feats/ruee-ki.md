@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Ruée Ki
 
  * **Nom d'origine** : Ki Rush

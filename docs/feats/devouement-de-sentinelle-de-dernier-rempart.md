@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Dévouement de Sentinelle de Dernier-Rempart
 
  * **Nom d'origine** : Lastwall Sentry Dedication

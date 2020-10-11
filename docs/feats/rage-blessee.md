@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Rage blessée
 
  * **Nom d'origine** : Wounded Rage

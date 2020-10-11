@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Désarmement prudent
 
  * **Nom d'origine** : Wary Disarmament

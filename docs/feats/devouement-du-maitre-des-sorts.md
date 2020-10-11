@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Dévouement du Maître des sorts
 
  * **Nom d'origine** : Spellmaster Dedication

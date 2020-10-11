@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Raclée brutale
 
  * **Nom d'origine** : Brutal Beating

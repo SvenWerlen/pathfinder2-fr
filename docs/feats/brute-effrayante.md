@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Brute effrayante
 
  * **Nom d'origine** : Fearsome Brute

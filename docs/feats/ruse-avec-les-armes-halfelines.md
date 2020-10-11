@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Ruse avec les armes halfelines
 
  * **Nom d'origine** : Halfling Weapon Trickster

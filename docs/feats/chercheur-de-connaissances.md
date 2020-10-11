@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Chercheur de connaissances
 
  * **Nom d'origine** : Lore Seeker

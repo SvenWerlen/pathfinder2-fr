@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Artisanat magique
 
  * **Nom d'origine** : Magical Crafting

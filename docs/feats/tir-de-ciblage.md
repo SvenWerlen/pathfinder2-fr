@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Tir de ciblage
 
  * **Nom d'origine** : Targeting Shot

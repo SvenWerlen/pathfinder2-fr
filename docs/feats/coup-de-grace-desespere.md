@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Coup de grâce désespéré
 
  * **Nom d'origine** : Desperate Finisher

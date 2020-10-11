@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Soif de vengeance
 
  * **Nom d'origine** : Vengeful Hatred

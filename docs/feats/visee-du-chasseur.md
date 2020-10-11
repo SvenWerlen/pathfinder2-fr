@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Visée du chasseur
 
  * **Nom d'origine** : Hunter's Aim

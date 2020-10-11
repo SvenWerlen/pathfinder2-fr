@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Creuser rapidement
 
  * **Nom d'origine** : Dig Quickly

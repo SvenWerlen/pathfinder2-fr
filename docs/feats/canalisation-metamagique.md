@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Canalisation métamagique
 
  * **Nom d'origine** : Metamagic Channel

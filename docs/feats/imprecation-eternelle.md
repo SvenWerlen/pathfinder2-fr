@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Imprécation éternelle
 
  * **Nom d'origine** : Eternal Bane

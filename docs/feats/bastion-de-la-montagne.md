@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Bastion de la montagne
 
  * **Nom d'origine** : Mountain Stronghold

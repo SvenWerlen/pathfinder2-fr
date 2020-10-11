@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Linguiste légendaire
 
  * **Nom d'origine** : Legendary Linguist

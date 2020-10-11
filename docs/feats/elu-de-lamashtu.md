@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Élu de Lamashtu
 
  * **Nom d'origine** : Chosen of Lamashtu

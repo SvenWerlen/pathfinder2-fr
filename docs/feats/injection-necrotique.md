@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Injection nécrotique
 
  * **Nom d'origine** : Necrotic Infusion

@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Connaissance des gobelins
 
  * **Nom d'origine** : Goblin Lore

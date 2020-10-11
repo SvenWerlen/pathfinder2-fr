@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Sort de lignage basique
 
  * **Nom d'origine** : Basic Bloodline Spell

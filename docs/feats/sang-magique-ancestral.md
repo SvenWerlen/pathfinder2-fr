@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Sang magique ancestral
 
  * **Nom d'origine** : Ancestral Blood Magic

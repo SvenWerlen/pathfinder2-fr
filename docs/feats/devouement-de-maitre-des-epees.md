@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Dévouement de Maître des épées
 
  * **Nom d'origine** : Swordmaster Dedication

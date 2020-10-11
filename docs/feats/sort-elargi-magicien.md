@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Sort élargi (Magicien)
 
  * **Nom d'origine** : Widen Spell

@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Contresort astucieux
 
  * **Nom d'origine** : Clever Counterspell

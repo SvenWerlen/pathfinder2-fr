@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Posture de tirs multiples
 
  * **Nom d'origine** : Multishot Stance

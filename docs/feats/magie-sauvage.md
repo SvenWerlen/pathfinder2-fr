@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Magie sauvage
 
  * **Nom d'origine** : Wildborn Magic

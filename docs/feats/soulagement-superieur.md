@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Soulagement supérieur
 
  * **Nom d'origine** : Greater Mercy

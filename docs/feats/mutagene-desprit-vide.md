@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Mutagène d’esprit vide
 
  * **Nom d'origine** : Mindblank Mutagen

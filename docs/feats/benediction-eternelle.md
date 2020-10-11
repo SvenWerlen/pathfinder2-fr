@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Bénédiction éternelle
 
  * **Nom d'origine** : Eternal Blessing

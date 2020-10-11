@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Furtivité légendaire
 
  * **Nom d'origine** : Legendary Sneak

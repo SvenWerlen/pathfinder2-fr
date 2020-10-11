@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Fabrication de la pierre philosophale
 
  * **Nom d'origine** : Craft Philosopher's Stone

@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Murmures de la muse avancés
 
  * **Nom d'origine** : Advanced Muse's Whispers

@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Recyclage de sort
 
  * **Nom d'origine** : Reprepare Spell

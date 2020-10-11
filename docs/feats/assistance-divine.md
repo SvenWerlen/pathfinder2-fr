@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Assistance divine
 
  * **Nom d'origine** : Divine Guidance

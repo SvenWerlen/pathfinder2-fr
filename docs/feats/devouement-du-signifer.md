@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Dévouement du Signifer
 
  * **Nom d'origine** : Hellknight Signifer Dedication

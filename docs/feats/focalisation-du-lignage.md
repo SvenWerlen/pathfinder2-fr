@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Focalisation du lignage
 
  * **Nom d'origine** : Bloodline Focus

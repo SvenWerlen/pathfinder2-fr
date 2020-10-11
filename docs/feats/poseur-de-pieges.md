@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Poseur de pièges
 
  * **Nom d'origine** : Snare Setter

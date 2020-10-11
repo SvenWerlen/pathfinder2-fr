@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Chance directrice
 
  * **Nom d'origine** : Guiding Luck

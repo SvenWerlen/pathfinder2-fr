@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Changeur de rune d'arme
 
  * **Nom d'origine** : Weapon-Rune Shifter

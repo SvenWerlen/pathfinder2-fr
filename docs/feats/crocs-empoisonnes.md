@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Crocs empoisonnés
 
  * **Nom d'origine** : Envenom Fangs

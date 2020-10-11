@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Acuité du duelliste
 
  * **Nom d'origine** : Duelist's Edge

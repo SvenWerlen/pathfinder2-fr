@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Poing de glaise maudit
 
  * **Nom d'origine** : Accursed Clay Fist

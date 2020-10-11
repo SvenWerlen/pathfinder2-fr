@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Lutteur contre les Titans
 
  * **Nom d'origine** : Titan Wrestler

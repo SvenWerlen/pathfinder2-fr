@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Handicap critique
 
  * **Nom d'origine** : Critical Debilitation

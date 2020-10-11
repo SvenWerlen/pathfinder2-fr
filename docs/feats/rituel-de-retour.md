@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Rituel de retour
 
  * **Nom d'origine** : Ritual Reversion

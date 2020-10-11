@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # Cryptanalyste légendaire
 
  * **Nom d'origine** : Legendary Codebreaker

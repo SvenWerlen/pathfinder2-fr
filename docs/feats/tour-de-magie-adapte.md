@@ -1,3 +1,5 @@
+[Revenir à la liste](..)
+
 # tour de magie adapté
 
  * **Nom d'origine** : Adapted Cantrip
