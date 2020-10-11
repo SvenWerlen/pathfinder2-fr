@@ -1,6 +1,6 @@
 # Dons de PF2
 
-|:Nom   | Niveau |
+| Nom   | Niveau |
 |-------|:------:|
 | [À couvert !](a-couvert-.md) | 10 |
 | [A trois temps](a-trois-temps.md) | 4 |
