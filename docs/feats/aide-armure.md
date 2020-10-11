@@ -1,5 +1,9 @@
 # Aide armure
 
+ * **Nom d'origine** : Armor Assist
+ * **Niveau** : 1
+
+
 <p><strong>Prérequis </strong>qualifié en Athlétisme ou en Connaissance de la guerre</p>
 <hr>
 <p>Après votre service passé à aider les combattants à revêtir leurs armures, vous êtes habitué à revêtir ou à aider les autres à porter de lourds équipements.</p>

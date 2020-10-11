@@ -1,5 +1,9 @@
 # Dressage animalier
 
+ * **Nom d'origine** : Train Animal
+ * **Niveau** : 1
+
+
 <p><strong>Prérequis</strong> qualifié en Nature</p>
 <hr>
 <p>Vous passez du temps à apprendre à un animal à faire une certaine action. Vous pouvez soit sélectionner une action basique que l’animal connaît déjà (généralement celles listées dans l’action Diriger un animal à la page 250) ou tenter d’apprendre à l’animal une nouvelle action basique. Le MJ détermine le DD de tout test requis et le temps d’entraînement que cela demande (généralement au moins une semaine). Il est normalement impossible d’apprendre à un animal un tour qui utilise

@@ -1,5 +1,9 @@
 # Bourrasque des vents violents
 
+ * **Nom d'origine** : Wild Winds Gust
+ * **Niveau** : 14
+
+
 <p><strong>Prérequis</strong> Initié des vents violents</p>
 <p><strong>Conditions</strong> Vous êtes dans la posture des vents violents.</p>
 <hr>

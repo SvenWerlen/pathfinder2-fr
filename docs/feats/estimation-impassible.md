@@ -1,5 +1,9 @@
 # Estimation impassible
 
+ * **Nom d'origine** : Unfazed Assessment
+ * **Niveau** : 8
+
+
 <div><strong>Archetype</strong> @Compendium[pf2e.archetypes.Lr108TWazbuxxUzP]{Garde Zéphyr}</div>
 <div><strong>Prerequisites</strong> @Compendium[pf2e.feats-srd.UyyrFtPWOo0qvXOv]{Dévouement de Garde Zéphyr}, expert en Perception</div>
 <hr>

@@ -1,5 +1,9 @@
 # Bouclier miroir
 
+ * **Nom d'origine** : Mirror Shield
+ * **Niveau** : 10
+
+
 <p><strong>Déclencheur</strong> Un adversaire lance un sort qui vous prend pour cible et obtient un échec critique sur son jet d’attaque de sort contre votre CA.</p>
 <p><strong>Conditions</strong> Votre bouclier est levé</p>
 <hr>

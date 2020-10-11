@@ -1,5 +1,9 @@
 # Magie du cristal simple
 
+ * **Nom d'origine** : Simple Crystal Magic
+ * **Niveau** : 6
+
+
 <p><strong>Archétype</strong> Gardien du cristal</p>
 <p><strong>Prérequis</strong> Dévouement de Gardien du cristal</p>
 <hr>

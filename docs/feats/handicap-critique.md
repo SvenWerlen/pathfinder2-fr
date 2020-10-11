@@ -1,5 +1,9 @@
 # Handicap critique
 
+ * **Nom d'origine** : Critical Debilitation
+ * **Niveau** : 12
+
+
 <p><strong>Prérequis</strong> @Compendium[pf2e.actionspf2e.bp0Up04x3dzGK5bB]{Frappe incapacitante}</p>
 <hr>
 <p>Les handicaps que vous infligez sont particulièrement efficaces quand ils sont associés à vos attaques les plus puissantes. Quand vous obtenez un succès critique à un jet d’attaque contre un ennemi en utilisant Frappe incapacitante, vous ajoutez le handicap suivant à la liste parmi laquelle vous pouvez choisir.</p>

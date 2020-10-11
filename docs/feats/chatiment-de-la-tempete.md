@@ -1,5 +1,9 @@
 # Châtiment de la tempête
 
+ * **Nom d'origine** : Storm Retribution
+ * **Niveau** : 6
+
+
 <p><strong>Prérequis</strong> ordre de la tempête, sort d’ordre onde de tempête</p>
 <p><strong>Déclencheur.</strong> Un adversaire adjacent vous inflige un coup critique avec une arme de corps à corps ou une attaque à mains nues au corps à corps.</p>
 <p><strong>Conditions.</strong> Votre réserve contient au moins 1 point de focalisation</p>

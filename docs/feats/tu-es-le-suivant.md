@@ -1,5 +1,9 @@
 # Tu es le suivant
 
+ * **Nom d'origine** : You're Next
+ * **Niveau** : 1
+
+
 <p><strong>Prérequis</strong> qualifié en Intimidation</p>
 <p><strong>Déclencheur.</strong> Vous réduisez un ennemi à 0 point de vie</p>
 <hr>

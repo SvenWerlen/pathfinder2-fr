@@ -1,5 +1,9 @@
 # Sort de Garde de Cristal
 
+ * **Nom d'origine** : Crystal Ward Spells
+ * **Niveau** : 4
+
+
 <p><strong>Archétype</strong> Gardien de Cristal</p>
 <p><strong>Prerequisites</strong> dévouement de Gardien du Cristal</p>
 <hr>

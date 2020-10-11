@@ -1,5 +1,9 @@
 # Compagnon spécialisé (Dompteur)
 
+ * **Nom d'origine** : Specialized Companion (Animal Trainer)
+ * **Niveau** : 18
+
+
 <p><strong>Archétype</strong> Dompteur</p>
 <p><strong>Prérequis</strong> Formidable compagnon</p>
 <hr>

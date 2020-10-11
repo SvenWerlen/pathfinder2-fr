@@ -1,5 +1,9 @@
 # Coup fabuleux
 
+ * **Nom d'origine** : Awesome Blow
+ * **Niveau** : 1
+
+
 <p><strong>Prérequis</strong> Repousser</p>
 <hr>
 <p>Vos attaques sont si puissantes qu’elles peuvent écraser vos adversaires. Quand vous utilisez Repousser, vous pouvez faire un test d’Athlétisme contre le DD de Vigueur de votre cible.</p>

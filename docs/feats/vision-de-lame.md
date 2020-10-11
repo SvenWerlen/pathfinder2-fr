@@ -1,5 +1,9 @@
 # Vision de l'âme
 
+ * **Nom d'origine** : Soulsight
+ * **Niveau** : 8
+
+
 <p><strong>Prérequis (Barde)</strong>&nbsp;None</p>
 <p><strong>Prerequis (Ensorceleur)</strong> Lignage qui donne accès aux sorts divins ou occultes</p>
 <hr>

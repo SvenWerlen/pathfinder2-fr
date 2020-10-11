@@ -1,5 +1,9 @@
 # Usurpation d'objet magique
 
+ * **Nom d'origine** : Trick Magic Item
+ * **Niveau** : 1
+
+
 <p><strong>Prérequis</strong> qualifié en Arcanes, Nature, Occultisme ou Religion</p>
 <hr>
 <p>Vous examinez un objet magique que vous ne pourriez normalement pas utiliser pour le leurrer et l’activer temporairement. Par exemple, cela pourrait permettre à un guerrier d’incanter un sort d’une baguette ou permettre à un magicien d’incanter un sort ne figurant pas dans la liste arcanique en utilisant un parchemin. Vous devez connaître ce que fait l’activation de l’objet, ou vous ne pouvez pas tenter de le duper.</p>

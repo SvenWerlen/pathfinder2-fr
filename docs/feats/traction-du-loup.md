@@ -1,5 +1,9 @@
 # Traction du loup
 
+ * **Nom d'origine** : Wolf Drag
+ * **Niveau** : 6
+
+
 <p><strong>Prérequis</strong> Posture du loup</p>
 <p><strong>Conditions</strong> Vous êtes dans la Posture du loup</p>
 <hr>

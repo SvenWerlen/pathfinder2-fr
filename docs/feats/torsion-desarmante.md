@@ -1,5 +1,9 @@
 # Torsion désarmante
 
+ * **Nom d'origine** : Disarming Twist
+ * **Niveau** : 10
+
+
 <p><strong>Prérequis</strong> qualifié en Athlétisme</p>
 <p><strong>Conditions</strong> Vous maniez une seule arme de corps à corps à une main et votre autre main (ou mains) est libre.</p>
 <hr>

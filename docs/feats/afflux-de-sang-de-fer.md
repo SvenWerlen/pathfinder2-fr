@@ -1,5 +1,9 @@
 # Afflux de sang de fer
 
+ * **Nom d'origine** : Ironblood Surge
+ * **Niveau** : 14
+
+
 <p><strong>Prérequis</strong> Ironblood Stance</p>
 <p><strong>Conditions.</strong> Vous êtes dans la Posture du sang-de-fer</p>
 <hr>

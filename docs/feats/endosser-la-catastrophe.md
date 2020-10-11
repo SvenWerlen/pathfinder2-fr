@@ -1,5 +1,9 @@
 # Endosser la catastrophe
 
+ * **Nom d'origine** : Shoulder Catastrophe
+ * **Niveau** : 12
+
+
 <div><strong>Archétype </strong>@Compendium[pf2e.archetypes.bi1SeBS7Af3ZisIA]{Maître des épées}</div>
 <div><span><strong>Prérequis</strong> dévouement de Maître des épées <br><strong>déclencheur</strong> Un ennemi obtient un Succès critique avec une Frappe portée contre un allié adjacent.<br></span></div>
 <hr>

@@ -1,5 +1,9 @@
 # Antimagie blasonnée
 
+ * **Nom d'origine** : Emblazon Antimagic
+ * **Niveau** : 12
+
+
 <p><strong>Prérequisites</strong> Arsenal Blasonné</p>
 <hr>
 <p>Le symbole de votre divinité offre une protection contre la magie offensive. Quand vous utilisez Arsenal blasonné, vous pouvez choisir l’un des effets suivants au lieu de ceux de ce don. Ces effets imposent les mêmes restrictions que les options de base.</p>

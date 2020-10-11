@@ -1,5 +1,9 @@
 # Jonglage
 
+ * **Nom d'origine** : Juggle
+ * **Niveau** : 2
+
+
 <p><span id="ctl00_MainContent_DetailedOutput"><strong>Prérequis</strong> Dextérité 16, qualifié en Représentation<br></span></p>
 <hr>
 <p>Vous pouvez jongler avec des objets et continuer à utiliser vos mains entre les passes. Vous pouvez utiliser l'action Juggle de différentes manières.</p>

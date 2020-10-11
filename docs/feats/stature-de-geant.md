@@ -1,5 +1,9 @@
 # Stature de géant
 
+ * **Nom d'origine** : Giant's Stature
+ * **Niveau** : 6
+
+
 <p><strong>Prérequis</strong> Instinct de géant</p>
 <p><strong>Conditions</strong> Vous êtes de taille Moyenne ou inférieure.</p>
 <hr>

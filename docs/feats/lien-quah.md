@@ -1,5 +1,9 @@
 # Lien Quah
 
+ * **Nom d'origine** : Quah Bond
+ * **Niveau** : 1
+
+
 <p><span id="ctl00_MainContent_DetailedOutput"><strong>Accès</strong> ethnie Shoanti<br></span></p>
 <hr>
 <p>Vous avez grandi parmi les tribus Shoanti, avec les esprits veillant sur vous et ils vous ont offert leurs conseils. Vous devenez qualifié dans la compétence listée pour votre quah (ou une autre compétence de votre choix, si vous êtes déjà qualifié dans cette compétence). Vous obtenez le don de compétence <a href="https://2e.aonprd.com/Feats.aspx?ID=756">Assurance</a> dans cette compétence, parce que les esprits vous aident dans vos actions.&nbsp;&nbsp;</p>

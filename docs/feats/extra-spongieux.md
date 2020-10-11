@@ -1,5 +1,9 @@
 # Extra spongieux
 
+ * **Nom d'origine** : Extra Squishy
+ * **Niveau** : 1
+
+
 <p><strong>Prérequis </strong> @Compendium[pf2e.ancestryfeatures.ULj56ZoW7dWdnBvu]{Gobelin incassable}</p>
 <hr>
 <p>Votre physique rebonidssant rend plus facile pour vous de vous enfoncer dans des espaces étroites et plus difficile pour vos ennemis de vous en déloger.</p>

@@ -1,5 +1,9 @@
 # Rugissement du dragon
 
+ * **Nom d'origine** : Dragon Roar
+ * **Niveau** : 6
+
+
 <p><strong>Prérequis</strong> Posture du dragon</p>
 <p><strong>Conditions</strong> Vous êtes dans la Posture du dragon</p>
 <hr>

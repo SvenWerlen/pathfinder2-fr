@@ -1,5 +1,9 @@
 # Dévouement de Sentinelle de Dernier-Rempart
 
+ * **Nom d'origine** : Lastwall Sentry Dedication
+ * **Niveau** : 2
+
+
 <div><strong>Archétype&nbsp;</strong>@Compendium[pf2e.archetypes.Utxq3fo8AoPyfh4K]{Sentinelle de DErnier-Rempart}</div>
 <div><span id="ctl00_MainContent_DetailedOutput"><strong>Prérequis</strong> membre des Chevaliers de Dernier Rempart, Blocage au bouclier<br><strong>Accès</strong> Vous êtes oiginaire de la région de l'Oeil de l'Effroi.<br></span></div>
 <hr>

@@ -1,5 +1,9 @@
 # Handicaps précis
 
+ * **Nom d'origine** : Precise Debilitations
+ * **Niveau** : 10
+
+
 <p><strong>Prérequis</strong> trafic de voleur, Frappe incapacitante</p>
 <hr>
 <p>Vous visez avec soin avant de distribuer gracieusement vos handicaps. Ajoutez les handicaps suivants à la liste de handicaps que vous utilisez avec Frappe incapacitante.</p>

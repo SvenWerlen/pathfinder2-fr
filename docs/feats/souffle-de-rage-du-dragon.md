@@ -1,5 +1,9 @@
 # Souffle de rage du dragon
 
+ * **Nom d'origine** : Dragon's Rage Breath
+ * **Niveau** : 6
+
+
 <p><strong>Prérequis</strong> Instinct du dragon</p>
 <p><strong>Conditions</strong> Vous n’avez pas utilisé ce pouvoir depuis votre dernière Rage</p>
 <hr>

@@ -1,5 +1,9 @@
 # Dévouement de Duelliste Aldori
 
+ * **Nom d'origine** : Aldori Duelist Dedication
+ * **Niveau** : 2
+
+
 <div><strong>Archétype </strong>@Compendium[pf2e.archetypes.cnsq5cXgQu4FXnoZ]{Duelliste Aldori}</div>
 <p><span id="ctl00_MainContent_DetailedOutput"><strong>Prérequis</strong> qualifié avec les épées de duel Aldori<br><strong>Accès</strong> Vous êtes originaire de la région des Terres Brisées.<br></span></p>
 <hr>

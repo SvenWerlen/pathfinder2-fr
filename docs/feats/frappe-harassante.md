@@ -1,5 +1,9 @@
 # Frappe harassante
 
+ * **Nom d'origine** : Harrying Strike
+ * **Niveau** : 10
+
+
 <div><strong>Archétype&nbsp;</strong>@Compendium[pf2e.archetypes.bi1SeBS7Af3ZisIA]{Maître des épées}</div>
 <div><span><strong>Prérequis</strong> dévouement de Maître des épées <br></span></div>
 <hr>

@@ -1,5 +1,9 @@
 # Bon mot
 
+ * **Nom d'origine** : Bon Mot
+ * **Niveau** : 1
+
+
 <p><strong>Prérequis</strong> qualifié en Diplomatie</p>
 <hr>
 <p>Vous lancez une pique bien sentie à un ennemi pour le distraire. Choisissez un ennemi situé à 9 m ou moins de vous et lancez un test de Diplomatie contre son DD de Volonté.</p>

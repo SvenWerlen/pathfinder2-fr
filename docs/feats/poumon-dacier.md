@@ -1,5 +1,9 @@
 # Poumon d'acier
 
+ * **Nom d'origine** : Iron Lung
+ * **Niveau** : 14
+
+
 <p><span id="ctl00_MainContent_DetailedOutput"><strong>Archétype</strong> <u><a href="https://2e.aonprd.com/Archetypes.aspx?ID=39">Greffeur de golem</a></u><br><strong>Prerequisites</strong> Golem Grafter Dedication<br></span></p>
 <hr>
 <p>Vos poumons sont aussi résistants que l'acier. Considérez le résultat de votre jet de sauvegarde contre les poisons <a style="text-decoration: underline;" href="https://2e.aonprd.com/Traits.aspx?ID=96">inhalés</a> comme s'il avait un degré de succès supérieur. De plus, vous obtenez la capacité suivante.</p>

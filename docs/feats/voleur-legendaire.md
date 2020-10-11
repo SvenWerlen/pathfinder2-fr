@@ -1,5 +1,9 @@
 # Voleur légendaire
 
+ * **Nom d'origine** : Legendary Thief
+ * **Niveau** : 15
+
+
 <p><strong>Prérequis</strong> légendaire en Vol, Vol à la tire</p>
 <hr>
 <p>Votre capacité à Voler dépasse l’entendement. Vous pouvez tenter de Voler quelque chose qui est activement utilisé ou qui serait extrêmement visible ou prendrait beaucoup de temps à retirer (comme des chaussures ou une armure portées). Vous devez le faire lentement et avec précaution,

@@ -1,5 +1,9 @@
 # Compétence qualifiante
 
+ * **Nom d'origine** : Skill Training
+ * **Niveau** : 1
+
+
 <p><strong>Prérequis</strong> Intelligence 12</p>
 <hr>
 <p>Vous devenez qualifié dans la compétence de votre choix.</p>

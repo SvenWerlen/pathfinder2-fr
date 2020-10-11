@@ -1,5 +1,9 @@
 # Chemin du jardin
 
+ * **Nom d'origine** : Garden Path
+ * **Niveau** : 8
+
+
 <p><strong>Archétype</strong> Laboureur de la Campanule</p>
 <p><strong>Prérequis </strong>Dévouement de la Campanule</p>
 <hr>

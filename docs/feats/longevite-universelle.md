@@ -1,5 +1,9 @@
 # Longévité universelle
 
+ * **Nom d'origine** : Universal Longevity
+ * **Niveau** : 13
+
+
 <p><strong>Prérequis</strong> Longévité experte</p>
 <p><strong>Fréquence</strong> une fois par jour</p>
 <hr>

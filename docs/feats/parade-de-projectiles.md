@@ -1,5 +1,9 @@
 # Parade de projectiles
 
+ * **Nom d'origine** : Deflect Arrow
+ * **Niveau** : 4
+
+
 <p><strong>Déclencheur</strong> Vous êtes la cible d'une attaque à distance physique.</p>
 <p><strong>Conditions</strong> Vous êtes conscient de l'attaque, vous n'êtes pas pris au dépourvu contre elle et vous avez une main de libre.</p>
 <hr>

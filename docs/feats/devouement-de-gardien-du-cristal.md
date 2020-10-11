@@ -1,5 +1,9 @@
 # Dévouement de Gardien du Cristal
 
+ * **Nom d'origine** : Crystal Keeper Dedication
+ * **Niveau** : 4
+
+
 <p><strong>Archétype</strong> @Compendium[pf2e.archetypes.xNzNpPjeNSrXE7WG]{Gardien du cristal}</p>
 <p><strong>Prérequis</strong> qualifié en Connaissance des elfes ou en Société</p>
 <hr>

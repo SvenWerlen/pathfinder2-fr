@@ -1,5 +1,9 @@
 # Dénoncer un voleur
 
+ * **Nom d'origine** : Decry Thief
+ * **Niveau** : 4
+
+
 <p><strong>Archétype</strong> Garde du Zéphyr</p>
 <p><strong>Prérequis</strong> Dévouement de Garde du Zéphyr, qualifié en Intimidation</p>
 <hr>

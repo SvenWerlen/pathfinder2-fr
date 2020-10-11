@@ -1,5 +1,9 @@
 # Éduqué dans les secrets
 
+ * **Nom d'origine** : Schooled In Secrets
+ * **Niveau** : 1
+
+
 <p><strong>Prérequis </strong>qualifié en Occultisme</p>
 <hr>
 <p>Vous remarquez les signes et les symboles que les membres de cultes mystérieux et d'autres sociétés secrètes utilisent pour déclarer leur affiliation à des camarades membres.</p>

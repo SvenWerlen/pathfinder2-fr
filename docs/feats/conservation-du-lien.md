@@ -1,5 +1,9 @@
 # Conservation du lien
 
+ * **Nom d'origine** : Bond Conservation
+ * **Niveau** : 8
+
+
 <p><strong>Prérequis</strong> lien arcanique</p>
 <p><strong>Conditions</strong> Votre dernière action a été Drain d’objet lié.</p>
 <hr>

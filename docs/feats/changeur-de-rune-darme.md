@@ -1,5 +1,9 @@
 # Changeur de rune d'arme
 
+ * **Nom d'origine** : Weapon-Rune Shifter
+ * **Niveau** : 10
+
+
 <p><strong>Archétype</strong> Gardien du cristal</p>
 <p><strong>Prérequis</strong> Dévouement de Gardien du cristal</p>
 <hr>

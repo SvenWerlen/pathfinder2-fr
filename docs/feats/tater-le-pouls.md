@@ -1,5 +1,9 @@
 # Tâter le pouls
 
+ * **Nom d'origine** : Know the Beat
+ * **Niveau** : 3
+
+
 <p><strong>Archétype</strong> Garde Zéphyr</p>
 <p><strong>Prerequisites</strong> Dévouement de Garde Zéphyr</p>
 <hr>

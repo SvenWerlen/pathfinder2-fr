@@ -1,5 +1,9 @@
 # Élixir miséricordieux
 
+ * **Nom d'origine** : Merciful Elixir
+ * **Niveau** : 10
+
+
 <p><strong>Fréquence</strong> une fois par round</p>
 <p><strong>Déclencheur</strong> Vous fabriquez un élixir de vie à l’aide d’Alchimie rapide, qui est inférieur d’au moins 2 niveaux à votre niveau d’alchimie avancée</p>
 <hr>

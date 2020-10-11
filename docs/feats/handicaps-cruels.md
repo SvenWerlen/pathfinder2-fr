@@ -1,5 +1,9 @@
 # Handicaps cruels
 
+ * **Nom d'origine** : Vicious Debilitations
+ * **Niveau** : 10
+
+
 <p><strong>Prérequis</strong> trafic de voyou, Frappe incapacitante</p>
 <hr>
 <p>Les handicaps que vous distribuez gênent véritablement vos adversaires. Ajoutez les handicaps suivants à la liste de handicaps que vous utilisez avec Frappe incapacitante.</p>

@@ -1,5 +1,9 @@
 # Arme divine
 
+ * **Nom d'origine** : Divine Weapon
+ * **Niveau** : 6
+
+
 <p><strong>Fréquence</strong> une fois par tour</p>
 <p><strong>Déclencheur</strong> Vous finissez de Lancer un sort en utilisant l’un de vos emplacements de sort divin lors de votre tour</p>
 <hr>

@@ -1,5 +1,9 @@
 # Mégabombe
 
+ * **Nom d'origine** : Mega Bomb
+ * **Niveau** : 20
+
+
 <p><strong>Prérequis</strong> Éclaboussure élargie</p>
 <p><strong>Conditions</strong> Vous tenez en main une bombe alchimique imprégnée que vous avez fabriquée et qui est inférieure d’au moins 3 niveaux à votre niveau d’alchimie avancée</p>
 <hr>

@@ -1,5 +1,9 @@
 # Adepte parfait du ki
 
+ * **Nom d'origine** : Perfect Ki Adept
+ * **Niveau** : 6
+
+
 <div><strong>Archétype </strong>@Compendium[pf2e.archetypes.JiRqSMv1STETLwSP]{Étudiant de la Perfection}</div>
 <div><span id="ctl00_MainContent_DetailedOutput"><strong>Prérequis</strong> Dévouement d'Étudiant de la perfection<br></span></div>
 <hr>

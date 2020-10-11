@@ -1,5 +1,9 @@
 # Mutation du lignage
 
+ * **Nom d'origine** : Bloodline Mutation
+ * **Niveau** : 20
+
+
 <p><strong>Prérequis</strong> un lignage basé sur un type de créature spécifique</p>
 <p>Vous mutez de façon permanente pour ressembler davantage aux créatures de votre lignage. Vous obtenez le ou les traits appropriés pour ce type de créatures (aberration pour aberrant, ange et céleste pour angélique, psychopompe pour psychopompe et ainsi de suite).</p>
 <p>Vous obtenez la vision nocturne ou la vision dans le noir, si cela est approprié pour les créatures possédant ces traits.</p>

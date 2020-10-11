@@ -1,5 +1,9 @@
 # Riposte en duel
 
+ * **Nom d'origine** : Dueling Riposte
+ * **Niveau** : 8
+
+
 <p><strong>Prérequis</strong> Parade en duel</p>
 <p><strong>Déclencheur</strong> Une créature à portée obtient un échec critique en effectuant une Frappe contre vous.</p>
 <p><strong>Conditions</strong> Vous bénéficiez des avantages de Parade en duel.</p>

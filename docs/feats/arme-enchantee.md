@@ -1,5 +1,9 @@
 # Arme enchantée
 
+ * **Nom d'origine** : Bespell Weapon
+ * **Niveau** : 4
+
+
 <p><strong>Fréquence</strong> une fois par tour</p>
 <p><strong>Conditions</strong> Votre action la plus récente a consisté à lancer un sort autre qu’un tour de magie.</p>
 <hr>

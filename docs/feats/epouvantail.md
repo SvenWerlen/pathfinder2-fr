@@ -1,5 +1,9 @@
 # Épouvantail
 
+ * **Nom d'origine** : Scarecrow
+ * **Niveau** : 8
+
+
 <p><strong>Archetype</strong> Bellflower Tiller</p>
 <p><strong>Prérequis</strong> Dévouement du Campanule</p>
 <hr>

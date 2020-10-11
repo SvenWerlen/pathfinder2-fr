@@ -1,5 +1,9 @@
 # Énergie blasonnée
 
+ * **Nom d'origine** : Emblazon Energy
+ * **Niveau** : 8
+
+
 <p><strong>Prérequis</strong> Arsenal blasonné</p>
 <hr>
 <p>Vous augmentez la puissance des symboles que vous blasonnez avec des forces élémentaires. Quand vous utilisez Arsenal blasonné, vous pouvez choisir l’un des effets suivants au lieu de ceux de ce don. Ces effets imposent les mêmes restrictions que les options de base.</p>

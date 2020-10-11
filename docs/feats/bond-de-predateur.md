@@ -1,5 +1,9 @@
 # Bond de prédateur
 
+ * **Nom d'origine** : Predator's Pounce
+ * **Niveau** : 12
+
+
 <p><strong>Prérequis</strong> Instinct animal</p>
 <p><strong>Conditions</strong> Vous ne portez pas d’armure ou seulement une armure légère</p>
 <hr>

@@ -1,5 +1,9 @@
 # Compagnon entraîné adulte
 
+ * **Nom d'origine** : Mature Trained Companion
+ * **Niveau** : 6
+
+
 <p><span id="ctl00_MainContent_DetailedOutput"><strong>Archétype</strong>&nbsp;Dompteur&nbsp;<br><strong>Prérequis</strong> Dévouement de Dompteur<br></span></p>
 <hr>
 <p>Votre compagnon animal grandit, devenant un compagnon animal adulte. Son niveau de maîtrise en Performance devient expert au lieu d'une des trois augmentation de compétence des adultes. Il obtient la manoeuvre avancée Représentation mémorable, à la place de la manoeuvre avancée de son type.</p>

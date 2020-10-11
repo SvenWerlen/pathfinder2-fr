@@ -1,5 +1,9 @@
 # Pouvoir du sang avancé
 
+ * **Nom d'origine** : Advanced Blood Potency
+ * **Niveau** : 6
+
+
 <p><strong>Prérequis</strong> Pouvoir du sang basique</p>
 <hr>
 <p>Vous gagnez un don d’ensorceleur. Afin de remplir ses prérequis,

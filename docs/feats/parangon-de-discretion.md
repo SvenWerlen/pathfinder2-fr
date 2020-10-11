@@ -1,5 +1,9 @@
 # Parangon de discrétion
 
+ * **Nom d'origine** : Hidden Paragon
+ * **Niveau** : 20
+
+
 <p><strong>Prérequis</strong> légendaire en Discrétion</p>
 <p><strong>Fréquence</strong> une fois par heure</p>
 <p><strong>Déclencheur</strong> Vous avez réussi à utiliser Discrétion pour Vous cacher et être caché aux yeux de tous vos adversaires actuels, ou vous avez utilisé Discrétion pour @Compendium[pf2e.actionspf2e.VMozDqMMuK5kpoX4]{Être furtif} et devenir non détecté aux yeux de ces adversaires.</p>

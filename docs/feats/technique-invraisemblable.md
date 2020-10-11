@@ -1,5 +1,9 @@
 # Technique invraisemblable
 
+ * **Nom d'origine** : Impossible Technique
+ * **Niveau** : 20
+
+
 <p><strong>Déclencheur</strong> L’attaque d’un ennemi vous touche ou vous ratez un jet de sauvegarde contre le pouvoir d’un ennemi.</p>
 <p><strong>Conditions</strong> Vous ne portez aucune armure et vous n’êtes pas fatigué</p>
 <hr>

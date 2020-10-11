@@ -1,5 +1,9 @@
 # Évolution physique supérieure
 
+ * **Nom d'origine** : Greater Physical Evolution
+ * **Niveau** : 12
+
+
 <p><strong>Prérequis</strong> @Compendium[pf2e.feats-srd.qxh4evekG28Gt1vj]{Évolution arcanique} ou @Compendium[pf2e.feats-srd.K3TasgeZLJQ84qtZ]{Évolution primordiale}</p>
 <hr>
 <p>Vous avez une compréhension fondamentale des structures innées du monde physique et vous pouvez imposer votre volonté à cette structure en ce qui concerne votre propre sang.</p>

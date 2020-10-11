@@ -1,5 +1,9 @@
 # Changeur de rune d'armure
 
+ * **Nom d'origine** : Armor Rune Shifter
+ * **Niveau** : 10
+
+
 <p><strong>Archétype</strong> Gardien du cristal</p>
 <p><strong>Prérequis</strong> Dévouement de Gardien du cristal</p>
 <hr>

@@ -1,5 +1,9 @@
 # Bombe incapacitante
 
+ * **Nom d'origine** : Debilitating Bomb
+ * **Niveau** : 6
+
+
 <p><strong>Fréquence</strong> une fois par round</p>
 <p><strong>Déclencheur</strong> Vous utilisez Alchimie rapide pour fabriquer une bombe alchimique qui est inférieure d’au moins 2 niveaux à votre niveau d’alchimie avancée.</p>
 <hr>

@@ -1,5 +1,9 @@
 # Bastion de la montagne
 
+ * **Nom d'origine** : Mountain Stronghold
+ * **Niveau** : 6
+
+
 <p><strong>Prérequis</strong> Posture de la montagne</p>
 <p><strong>Conditions</strong> Vous êtes dans la Posture de la montagne</p>
 <hr>

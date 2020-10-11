@@ -1,5 +1,9 @@
 # Dévouement de Gardien de Maagambya
 
+ * **Nom d'origine** : Magaambyan Attendant Dedication
+ * **Niveau** : 2
+
+
 <div><strong>Archétype </strong>Gardien de Maagambya</div>
 <div><span id="ctl00_MainContent_DetailedOutput"><strong>Prérequis</strong> qualifié en Arcane ou Nature, membre de Magaambya au rang de gardien<br></span></div>
 <hr>

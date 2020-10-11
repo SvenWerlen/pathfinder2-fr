@@ -1,5 +1,9 @@
 # Posture de fente
 
+ * **Nom d'origine** : Lunging Stance
+ * **Niveau** : 12
+
+
 <p><strong>Prérequis</strong> @Compendium[pf2e.classfeatures.hmShTfPOcTaKgbf4]{Attaque d’opportunité}, @Compendium[pf2e.feats-srd.rTkr1EqpAN6YtnAh]{Fente}</p>
 <p><strong>Conditions</strong> Vous maniez une arme de corps à corps</p>
 <hr>

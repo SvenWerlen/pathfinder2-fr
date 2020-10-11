@@ -1,5 +1,9 @@
 # Esquive agile
 
+ * **Nom d'origine** : Nimble Dodge
+ * **Niveau** : 1
+
+
 <p><strong>Déclencheur.</strong> Une créature vous cible avec une attaque et vous pouvez voir votre assaillant.</p>
 <p><strong>Conditions.</strong> Vous n’êtes pas surchargé</p>
 <hr>

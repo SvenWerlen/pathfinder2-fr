@@ -1,5 +1,9 @@
 # Porte de la mort
 
+ * **Nom d'origine** : Death's Door
+ * **Niveau** : 14
+
+
 <div><strong>Archétype </strong>@Compendium[pf2e.archetypes.bi1SeBS7Af3ZisIA]{Maître des épées}</div>
 <div><span id="ctl00_MainContent_DetailedOutput"><strong>Fréquence</strong> une fois toutes les 10 minutes<br /><strong>Prérequis</strong> Dévouement de maître des épées <br /><strong>Déclencheur</strong> Vous subissez des dégâts qui devrient vous faire passer à 0 Points de Vie.<br /></span></div>
 <hr />

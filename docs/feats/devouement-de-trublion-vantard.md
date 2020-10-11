@@ -1,5 +1,9 @@
 # Dévouement de Trublion vantard
 
+ * **Nom d'origine** : Firebrand Braggart Dedication
+ * **Niveau** : 4
+
+
 <div><strong>Archétype </strong>@Compendium[pf2e.archetypes.YBvXmJ5e9MThdws0]{Trublion vantard}</div>
 <div><span id="ctl00_MainContent_DetailedOutput"><strong>Prérequis</strong> Charisme 14, membre de second rang des Trublions<br></span></div>
 <hr>

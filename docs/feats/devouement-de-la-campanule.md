@@ -1,5 +1,9 @@
 # Dévouement de la Campanule
 
+ * **Nom d'origine** : Bellflower Dedication
+ * **Niveau** : 6
+
+
 <p><strong>Archétype</strong> @Compendium[pf2e.archetypes.gw4J1pXYED71TPWx]{Laboureur de la Campanule}</p>
 <p><strong>Prérequis</strong> Charisme 14, expert en Discrétion et en Survie, membre du réseau Campanule</p>
 <hr>

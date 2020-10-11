@@ -1,5 +1,9 @@
 # Chevaucheur rapide
 
+ * **Nom d'origine** : Express Rider
+ * **Niveau** : 1
+
+
 <p><strong>Prérequis </strong>qualifié en Nature</p>
 <hr>
 <p>Vous savez comment encourager votre monture à parcourir des distances rapidement.</p>

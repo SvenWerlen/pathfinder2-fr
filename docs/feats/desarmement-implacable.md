@@ -1,5 +1,9 @@
 # Désarmement implacable
 
+ * **Nom d'origine** : Relentless Disarm
+ * **Niveau** : 6
+
+
 <p><strong>Archétype</strong> Garde Zéphyr</p>
 <p><strong>Prérequis</strong> Dévouement de Garde zéphyr, qualifié en Athlétisme</p>
 <hr>

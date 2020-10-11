@@ -1,5 +1,9 @@
 # Final brutal
 
+ * **Nom d'origine** : Brutal Finish
+ * **Niveau** : 12
+
+
 <p><strong>Conditions</strong> Vous maniez une arme de corps à corps à deux mains.</p>
 <hr>
 <p>Votre ultime coup peut être impactant, même s’il est dévié par les défenses de votre adversaire. Effectuez une Frappe avec l’arme requise. Votre tour se termine après la Frappe. La Frappe inflige un dé de dégâts d’arme supplémentaire, ou deux dés si vous êtes de niveau 18 au moins. La Frappe a également l’effet d’échec suivant.</p>

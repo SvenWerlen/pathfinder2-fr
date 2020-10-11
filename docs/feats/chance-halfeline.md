@@ -1,5 +1,9 @@
 # Chance halfeline
 
+ * **Nom d'origine** : Halfling Luck
+ * **Niveau** : 1
+
+
 <p><strong>Fréquence</strong> une fois par jour</p>
 <p><strong>Déclencheur.</strong> Vous échouez à un test de compétence ou à un jet desauvegarde.</p>
 <hr>

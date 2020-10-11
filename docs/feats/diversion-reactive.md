@@ -1,5 +1,9 @@
 # Diversion réactive
 
+ * **Nom d'origine** : Reactive Distraction
+ * **Niveau** : 20
+
+
 <p><strong>Prérequis</strong> légendaire en Duperie, Diversion parfaite</p>
 <p><strong>Déclencheur</strong> Vous êtes sur le point d’être touché par une attaque, ciblé par un effet, ou vous trouvez dans une zone d’effet.</p>
 <p><strong>Conditions</strong> Vous êtes prêt à employer Diversion parfaite.</p>

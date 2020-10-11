@@ -1,5 +1,9 @@
 # Danse en duel
 
+ * **Nom d'origine** : Dueling Dance (Fighter)
+ * **Niveau** : 12
+
+
 <p><strong>Prérequis</strong> Parade en duel</p>
 <p><strong>Conditions</strong> Vous maniez seulement une unique arme de corps à corps à une main et votre autre main ou vos autres mains sont libres.</p>
 <hr>

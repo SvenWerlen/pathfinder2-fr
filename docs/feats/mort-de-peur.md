@@ -1,5 +1,9 @@
 # Mort de peur
 
+ * **Nom d'origine** : Scare to Death
+ * **Niveau** : 15
+
+
 <p><strong>Prérequis</strong> légendaire en Intimidation</p>
 <hr>
 <p>Vous pouvez effrayer des ennemis au point qu’ils pourraient en mourir. Tentez un test d’Intimidation contre le DD de Volonté d’une créature vivante située dans un rayon de 9 m de vous que vous pouvez sentir ou observer et qui peut vous sentir et vous observer. Si la cible ne peut ni entendre ni comprendre la langue que vous parlez, vous subissez un malus de circonstances de −4. Ensuite, la créature est temporairement immunisée pendant 1 min.</p>

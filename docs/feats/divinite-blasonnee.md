@@ -1,5 +1,9 @@
 # Divinité blasonnée
 
+ * **Nom d'origine** : Emblazon Divinity
+ * **Niveau** : 20
+
+
 <p><strong>Prérequis</strong> Arsenal blasonné</p>
 <hr>
 <p>Vos inscriptions sacrées remplissent les objets de pouvoir. Cela vous prend seulement 1 minute de blasonner un symbole en utilisant @Compendium[pf2e.feats-srd.7RFjTTzznsdPcaYB]{Arsenal blasonné} et vous pouvez avoir jusqu'à quatre symboles blasonnés en même temps. Chaque objet ne peut toujours recevoir qu'un seul symbole blasonné et si vous dépassez la limite de quatre, le plus ancien des symboles disparait. Ces symboles peuvent accorder leur avantage même à ceux qui ne sont pas des fidèles de votre divinité, pourvu qu'ils n'y soient pas directement opposés (à l'appréciation du MJ).</p>

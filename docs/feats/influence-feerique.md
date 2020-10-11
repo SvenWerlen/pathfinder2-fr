@@ -1,5 +1,9 @@
 # Influence féérique
 
+ * **Nom d'origine** : Fey Influence
+ * **Niveau** : 5
+
+
 <p><span>Vous avez été exposé à une puissante magie féérique. Vous devenez qualifié en DD primordiaux et aux attaques de sort. Vous obtenez le trait fée et une des capacités suivantes qui vous accorde un sort primordial inné qui peut être utilisé une fois par jour. </span></p>
 <ul>
 <li><strong>Fourmilier</strong> Vous pouvez projeter votre langue devant vous pour effectuer une attaquee mortelle, obtenant @Compendium[pf2e.spells-srd.k34hDOfIIMAxNL4a]{Sinistres volutes}.</li>

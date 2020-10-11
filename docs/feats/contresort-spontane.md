@@ -1,5 +1,9 @@
 # Contresort (Spontané)
 
+ * **Nom d'origine** : Counterspell (Spontaneous)
+ * **Niveau** : 1
+
+
 <p><strong>Déclencheur.</strong> Une créature Lance un sort que vous avez dans votre répertoire.</p>
 <p><strong>Conditions.</strong> Il vous reste un emplacement de sort utilisable pour lancer le sort déclencheur</p>
 <hr>

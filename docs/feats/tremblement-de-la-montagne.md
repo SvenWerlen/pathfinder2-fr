@@ -1,5 +1,9 @@
 # Tremblement de la montagne
 
+ * **Nom d'origine** : Mountain Quake
+ * **Niveau** : 14
+
+
 <p><strong>Prérequis</strong> Bastion de la montagne</p>
 <p><strong>Conditions</strong> Vous êtes dans la Posture de la montagne</p>
 <hr>

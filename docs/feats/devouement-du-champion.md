@@ -1,5 +1,9 @@
 # Dévouement du Champion
 
+ * **Nom d'origine** : Champion Dedication
+ * **Niveau** : 2
+
+
 <p><strong>Prérequis</strong> Force 14, Charisme 14 </p>
 <hr>
 <p>Choisissez une divinité et une cause comme si vous étiez un champion. Vous devenez qualifié en armure légère, moyenne et lourde. Vous devenez qualifié en Religion et dans les com  pétences associées à votre divinité ; pour chacune de ces compétences dans lesquelles vous étiez déjà qualifié, vous devenez à la place qualifié dans une compétence de votre choix. Vous devenez qualifié dans le DD de classe de champion.</p>

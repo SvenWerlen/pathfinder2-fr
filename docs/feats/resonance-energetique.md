@@ -1,5 +1,9 @@
 # Résonance énergétique
 
+ * **Nom d'origine** : Energetic Resonance
+ * **Niveau** : 6
+
+
 <p><strong>Déclencheur</strong> Vous devriez subir des dégâts d'acide, de froid, d'électricité, de feu ou de son d'un sort</p>
 <p><strong>Conditions</strong> Vous disposez d'un emplacement de sorts non utilisé d'un niveau égal ou supérieur à celui du sort déclencheur</p>
 <hr>

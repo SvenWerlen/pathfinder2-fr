@@ -1,5 +1,9 @@
 # Dogme avancé
 
+ * **Nom d'origine** : Advanced Dogma
+ * **Niveau** : 6
+
+
 <p><strong>Prérequis</strong> Dogme basique</p>
 <hr>
 <p>Vous gagnez un don de prêtre. Afin de remplir ses prérequis, votre niveau de prêtre est égal à la moitié du niveau de votre personnage.</p>

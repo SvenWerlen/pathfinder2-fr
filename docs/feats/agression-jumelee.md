@@ -1,5 +1,9 @@
 # Agression jumelée
 
+ * **Nom d'origine** : Twin Takedown
+ * **Niveau** : 1
+
+
 <p><strong>Fréquence</strong> une fois par round</p>
 <p><strong>Conditions.</strong> Vous maniez deux armes de corps à corps, une dans chaque main.</p>
 <hr>

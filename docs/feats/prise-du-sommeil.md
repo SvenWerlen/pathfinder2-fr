@@ -1,5 +1,9 @@
 # Prise du sommeil
 
+ * **Nom d'origine** : Sleeper Hold
+ * **Niveau** : 10
+
+
 <p><strong>Conditions</strong> Vous empoignez ou entravez une créature.</p>
 <hr>
 <p>Vous pincez les points cruciaux du système nerveux de votre cible pour bloquer ses capacités fonctionnelles. Faites un test d’Athlétisme pour Saisir la créature, avec les effets de succès et de succès critique suivants au lieu des effets habituels.</p>

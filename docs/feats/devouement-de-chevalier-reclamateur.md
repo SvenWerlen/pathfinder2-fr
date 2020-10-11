@@ -1,5 +1,9 @@
 # Dévouement de Chevalier réclamateur
 
+ * **Nom d'origine** : Knight Reclaimant Dedication
+ * **Niveau** : 6
+
+
 <div><span id="ctl00_MainContent_DetailedOutput"><strong>Archétype</strong> @Compendium[pf2e.archetypes.WrQ2Qpv958C6cfD0]{Chevalier réclamateur}</span></div>
 <div><span id="ctl00_MainContent_DetailedOutput"><strong>Prérequis</strong> qualifié en Survie et Discrétion, tout alignement non mauvais, membre des Chevaliers de Dernier rempart du rang de chevalier<br></span></div>
 <hr>

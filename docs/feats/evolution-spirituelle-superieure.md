@@ -1,5 +1,9 @@
 # Évolution spirituelle supérieure
 
+ * **Nom d'origine** : Greater Spiritual Evolution
+ * **Niveau** : 12
+
+
 <p><strong>Prérequis</strong> @Compendium[pf2e.feats-srd.WHOCaVobY7N3UTtA]{Évolution divine} ou @Compendium[pf2e.feats-srd.lL2fQJ2oRyBgga8Q]{Évolution occulte}</p>
 <hr>
 <p>Votre sang magique est riche en essence spirituelle et cette imprégnation permet à vos sorts d'être pleinement efficaces contre les créatures incorporelles, les esprits et les créatures du Plan Éthéré.</p>

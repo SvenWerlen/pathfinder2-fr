@@ -1,5 +1,9 @@
 # Mondes différents
 
+ * **Nom d'origine** : Different Worlds
+ * **Niveau** : 1
+
+
 <p><strong>Prérequis</strong> capacité à sélectionner des dons d'éritage de multiples héritages</p>
 <hr>
 <p>Vos expériences séparées dans différentes sociétés ont évolué en des vies parfaitement séparées. Créez une seconde identité pour vous-même avec un nom, une histoire et un background entièrement différents. Cette identité doit correspondre à un des héritages dont vous pouvez sélectionner un don d'héritage. Vous obtenez le rang qualifié dans la Compétence de connaissance du second background que vous choisissez (mais pas les autres bénéfices de ce second background) et vous obtenez un bonus de circonstance de +4 aux tests de Duperie lorsque vous déclarez que votre seconde identité est véritableou lorsque vous vous déguisez pour prendre cette seconde identité.</p>

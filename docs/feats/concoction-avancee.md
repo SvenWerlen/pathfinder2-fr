@@ -1,5 +1,9 @@
 # Concoction avancée
 
+ * **Nom d'origine** : Advanced Concoction
+ * **Niveau** : 6
+
+
 <p><strong>Prérequis.</strong>Concoction basique</p>
 <hr>
 <p>Vous gagnez un don d’alchimiste. Afin de remplir ses prérequis, votre niveau d’alchimiste est égal à la moitié de votre niveau de personnage</p>

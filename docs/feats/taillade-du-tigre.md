@@ -1,5 +1,9 @@
 # Taillade du tigre
 
+ * **Nom d'origine** : Tiger Slash
+ * **Niveau** : 6
+
+
 <p><strong>Prérequis</strong> Posture du tigre</p>
 <p><strong>Conditions</strong> Vous êtes dans la Posture du tigre</p>
 <hr>

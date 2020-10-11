@@ -1,5 +1,9 @@
 # Dévouement du Maître des parchemins
 
+ * **Nom d'origine** : Scrollmaster Dedication
+ * **Niveau** : 6
+
+
 <div><strong>Archétype </strong>@Compendium[pf2e.archetypes.2eAiIynDWTMKTGDU]{Maître des parchemins}</div>
 <div><span id="ctl00_MainContent_DetailedOutput"><strong>Prérequis</strong> expert dans n'importe quelle compétence de Connaissance, membre de la Société des Éclaireurs affiliée à l'École des parchemins<br></span></div>
 <hr>

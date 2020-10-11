@@ -1,5 +1,9 @@
 # Entourage
 
+ * **Nom d'origine** : Entourage
+ * **Niveau** : 7
+
+
 <p><span id="ctl00_MainContent_DetailedOutput"><strong>Prérequis</strong> maître en Diplomatie, Animal social<br></span></p>
 <hr>
 <p>Vous disposez d'un petit groupe d'admirateurs qui tendent à vous tourner autour lorsque vous êtes dans des communautés civilisées. 

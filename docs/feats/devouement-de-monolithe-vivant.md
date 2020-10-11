@@ -1,5 +1,9 @@
 # Dévouement de Monolithe vivant
 
+ * **Nom d'origine** : Living Monolith Dedication
+ * **Niveau** : 2
+
+
 <div><strong>Archétype&nbsp;</strong>@Compendium[pf2e.archetypes.4xzvjFVytFA0LIYj]{Monolithe Vivant}</div>
 <p><span id="ctl00_MainContent_DetailedOutput"><strong>Prérequis</strong> langues de l'Osirion antique et Sphinx, qualifié en Artisanat<br><strong>Accès</strong> Vous êtes originaire de la Région de la Route Dorée.<br></span></p>
 <hr>

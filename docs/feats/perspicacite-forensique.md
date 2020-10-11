@@ -1,5 +1,9 @@
 # Perspicacité forensique
 
+ * **Nom d'origine** : Forensic Acumen
+ * **Niveau** : 1
+
+
 p><strong>Prérequis</strong> qualifié en Medicine</p>
 <hr>
 <p>Vous comprenez les principes de la médecine forensique, ce qui vous rend plus à même d’examiner un corps à la recherche des causes de la mort ou d’une blessure.</p>

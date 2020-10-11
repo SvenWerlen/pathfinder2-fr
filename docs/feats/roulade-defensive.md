@@ -1,5 +1,9 @@
 # Roulade défensive
 
+ * **Nom d'origine** : Defensive Roll
+ * **Niveau** : 14
+
+
 <p><strong>Fréquence</strong> une fois toutes les 10 minutes</p>
 <p><strong>déclencheur</strong> Une attaque physique qui va vous réduire à 0 point de vie.</p>
 <hr>

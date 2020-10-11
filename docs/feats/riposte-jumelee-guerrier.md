@@ -1,5 +1,9 @@
 # Riposte jumelée (Guerrier)
 
+ * **Nom d'origine** : Twin Riposte
+ * **Niveau** : 10
+
+
 <p><strong>Déclencheur</strong> Une créature à portée obtient un échec critique en effectuant une Frappe contre vous</p>
 <p><strong>Conditions</strong> Vous bénéficiez des avantages de Parade jumelée</p>
 <hr>

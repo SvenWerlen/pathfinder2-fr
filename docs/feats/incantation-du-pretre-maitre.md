@@ -1,5 +1,9 @@
 # Incantation du prêtre maître
 
+ * **Nom d'origine** : Master Cleric Spellcasting
+ * **Niveau** : 18
+
+
 <p><strong>Prérequis</strong> Incantation du prêtre expert, légendaire en</p>
 <p>Religion</p>
 <hr>

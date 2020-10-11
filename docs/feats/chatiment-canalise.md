@@ -1,5 +1,9 @@
 # Châtiment canalisé
 
+ * **Nom d'origine** : Channel Smite
+ * **Niveau** : 4
+
+
 <p><strong>Prérequis</strong> source de mise à mal ou de guérison</p>
 <p><strong>Coût</strong> Dépensez un sort de mise à mal ou guérison.</p>
 <hr>

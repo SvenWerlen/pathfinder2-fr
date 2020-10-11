@@ -1,5 +1,9 @@
 # Ratissage de la forêt enchevêtrée
 
+ * **Nom d'origine** : Tangled Forest Rake
+ * **Niveau** : 14
+
+
 <p><strong>Prérequis</strong> Posture de la forêt enchevêtrée</p>
 <p><strong>Conditions</strong> Vous êtes dans la Posture de la forêt enchevêtrée</p>
 <hr>

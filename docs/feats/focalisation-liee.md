@@ -1,5 +1,9 @@
 # Focalisation liée
 
+ * **Nom d'origine** : Linked Focus
+ * **Niveau** : 4
+
+
 <p><strong>Prérequis</strong> lien arcanique, école arcanique</p>
 <p><strong>Fréquence</strong> une fois par jour</p>
 <hr>

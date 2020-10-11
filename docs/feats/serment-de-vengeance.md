@@ -1,5 +1,9 @@
 # Serment de vengeance
 
+ * **Nom d'origine** : Vengeful Oath
+ * **Niveau** : 2
+
+
 <p><strong>Prérequis</strong> cause du paladin</p>
 <hr>
 <p>Vous avez fait le serment de pourchasser les scélérats cruels et de les exécuter en guise de jugement. Ajoutez le principe suivant à votre code, à la suite des autres : « Vous devez pourchasser et exterminer les créatures d’alignement mauvais qui ont commis d’odieux et atroces méfaits si vous avez des chances raisonnables d’y parvenir et que vous vous n’êtes pas engagé dans une mission qui vous empêche de le faire. » </p>

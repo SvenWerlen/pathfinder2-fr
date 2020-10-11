@@ -1,5 +1,9 @@
 # Furie avancée
 
+ * **Nom d'origine** : Advanced Fury
+ * **Niveau** : 6
+
+
 <p><strong>Prérequis</strong> Furie Basique</p>
 <hr>
 <p>Vous gagnez un don de barbare. Afin de remplir ses prérequis, votre niveau de barbare est égal à la moitié du niveau de votre personnage.</p>

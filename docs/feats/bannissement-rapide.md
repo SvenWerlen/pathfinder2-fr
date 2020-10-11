@@ -1,5 +1,9 @@
 # Bannissement rapide
 
+ * **Nom d'origine** : Swift Banishment
+ * **Niveau** : 14
+
+
 <p><strong>Déclencheur</strong> Vous infligez un coup critique à une créature qui n’est pas sur son plan d’origine.</p>
 <p><strong>Conditions</strong> Vous avez préparé le sort bannissement</p>
 <hr>

@@ -1,5 +1,9 @@
 # Projection en rotation
 
+ * **Nom d'origine** : Whirling Throw
+ * **Niveau** : 6
+
+
 <p><strong>Conditions</strong> Vous empoignez ou entravez une créature</p>
 <hr>
 <p>Vous projetez votre adversaire empoigné ou entravé. Vous pouvez projeter la créature à une distance maximale de 3 m, plus 1,50 m × votre modificateur de Force. Si vous parvenez à la projeter, elle subit un montant de dégâts contondants égal à votre modificateur de Force plus 1d6 par tranche de 3 m parcourus.</p>

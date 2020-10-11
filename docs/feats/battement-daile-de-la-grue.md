@@ -1,5 +1,9 @@
 # Battement d'aile de la grue
 
+ * **Nom d'origine** : Crane Flutter
+ * **Niveau** : 6
+
+
 <p><strong>Prérequis</strong> Posture de la grue</p>
 <p><strong>Déclencheur</strong> Vous êtes attaqué au corps à corps par une créature que vous pouvez voir.</p>
 <p><strong>Conditions</strong> Vous êtes dans la Posture de la grue.</p>

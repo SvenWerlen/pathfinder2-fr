@@ -1,5 +1,9 @@
 # Improvisation extraordinaire
 
+ * **Nom d'origine** : Incredible Improvisation
+ * **Niveau** : 9
+
+
 <p><strong>Prérequis</strong> Improvisateur astucieux</p>
 <p><strong>Fréquence</strong> une fois par jour</p>
 <p><strong>Déclencheur</strong> Vous faites un test avec une compétence dans laquelle vous êtes inexpérimenté</p>

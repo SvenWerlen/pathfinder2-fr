@@ -1,5 +1,9 @@
 # Arme empoisonnée
 
+ * **Nom d'origine** : Poison Weapon
+ * **Niveau** : 4
+
+
 <p><strong>Conditions</strong>  Vous tenez une arme perforante ou tranchante.</p>
 <hr>
 <p>Vous appliquez un poison sur l’arme requise. Si vous n’avez pas de poison en main et avez une main libre, vous pouvez Interagir pour prendre un poison lors de cette action. Avant la fin de votre prochain tour, si la prochaine attaque que vous portez avec cette arme touche sa cible et inflige des dégâts, vous appliquez également les effets du poison, dans la mesure où celui‑ci peut être administré par contact ou par blessure. Si vous obtenez un échec critique au jet d’attaque, le poison est gâché suivant la règle normale.</p>

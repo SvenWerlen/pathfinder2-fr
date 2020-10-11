@@ -1,5 +1,9 @@
 # Protection énergétique
 
+ * **Nom d'origine** : Energy Ward
+ * **Niveau** : 10
+
+
 <p><strong>Fréquence</strong> une fois par tour</p>
 <p><strong>Conditions</strong> Votre dernière action a consisté à lancer un sort qui n'est pas un tour de magie qui inflige des dégâts d'énergie.</p>
 <hr>

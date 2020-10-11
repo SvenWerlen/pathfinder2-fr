@@ -1,5 +1,9 @@
 # Arsenal aligné
 
+ * **Nom d'origine** : Align Armament
+ * **Niveau** : 8
+
+
 <p><strong>Prérequis</strong> divinité bonne, chaotique, loyale ou mauvaise</p>
 <p><strong>Fréquence</strong> une fois par round</p>
 <hr>

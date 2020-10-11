@@ -1,5 +1,9 @@
 # Dévouement de l'alchimiste
 
+ * **Nom d'origine** : Alchemist Dedication
+ * **Niveau** : 2
+
+
 <p><strong>Prérequis</strong> Intelligence 14</p>
 <hr>
 <p>Vous mettez en pratique votre intérêt pour l’alchimie. Vous devenez qualifié dans les bombes alchimiques et l’Artisanat ; si vous étiez déjà qualifié en Artisanat, vous devenez à la place qualifié dans une compétence de votre choix. Vous devenez qualifié dans le DD de classe d’alchimiste. Vous gagnez la capacité de classe d’alchimiste réactifs imprégnés,

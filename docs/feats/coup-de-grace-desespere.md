@@ -1,5 +1,9 @@
 # Coup de grâce désespéré
 
+ * **Nom d'origine** : Desperate Finisher
+ * **Niveau** : 14
+
+
 <p><strong>Déclencheur</strong> Vous achevez la dernière action de votre tour mais celui‑ci n’est pas encore terminé.</p>
 <p><strong>Conditions</strong> Vous remplissez les conditions pour utiliser une action avec le trait persévérer.</p>
 <hr>

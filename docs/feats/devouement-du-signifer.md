@@ -1,5 +1,9 @@
 # Dévouement du Signifer
 
+ * **Nom d'origine** : Hellknight Signifer Dedication
+ * **Niveau** : 6
+
+
 <div><strong>Archétype </strong>@Compendium[pf2e.archetypes.GwItivMACzBmW82g]{Signifer}</div>
 <div><span id="ctl00_MainContent_DetailedOutput"><strong>Prérequis</strong> capacité de lancer des sorts, Dévouement d'Écuyer chevalier infernal, alignement loyal, membre d'un ordre de Chevalier infernal, avoir réussi le test de Chevalier infernal<br></span></div>
 <hr>

@@ -1,5 +1,9 @@
 # Poing de glaise maudit
 
+ * **Nom d'origine** : Accursed Clay Fist
+ * **Niveau** : 10
+
+
 <p><span id="ctl00_MainContent_DetailedOutput"><strong>Archétype</strong> @Compendium[pf2e.archetypes.XATPzPTZ9Je89erT]{Greffeur de Golem}</span></p>
 <p><span id="ctl00_MainContent_DetailedOutput"><strong>Prérequis</strong> dévouement de Greffeur de Golem, expert en attaques à mains nues<br></span></p>
 <hr>

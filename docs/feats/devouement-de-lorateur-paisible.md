@@ -1,5 +1,9 @@
 # Dévouement de l'Orateur paisible
 
+ * **Nom d'origine** : Halcyon Speaker Dedication
+ * **Niveau** : 6
+
+
 <div><strong>Archétype </strong>@Compendium[pf2e.archetypes.Qsmzm6w1ZNpHX7GD]{Orateur paisible}</div>
 <div><span id="ctl00_MainContent_DetailedOutput"><strong>Prérequis</strong> Dévouement du Gardien de Magaambya, membre de l'Académie de Magaambya avec un rang de maître<br></span></div>
 <hr>

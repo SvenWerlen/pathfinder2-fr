@@ -1,5 +1,9 @@
 # Tir du chasseur
 
+ * **Nom d'origine** : Hunted Shot
+ * **Niveau** : 1
+
+
 <p><strong>Fréquence</strong> une fois par round</p>
 <p><strong>Conditions.</strong> Vous maniez une arme à distance avec un rechargement 0</p>
 <hr>

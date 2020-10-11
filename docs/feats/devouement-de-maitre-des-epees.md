@@ -1,5 +1,9 @@
 # Dévouement de Maître des épées
 
+ * **Nom d'origine** : Swordmaster Dedication
+ * **Niveau** : 6
+
+
 <div><strong>Archétype </strong>@Compendium[pf2e.archetypes.bi1SeBS7Af3ZisIA]{Maître des épées}</div>
 <div><span id="ctl00_MainContent_DetailedOutput"><strong>Prérequis</strong> Force, Dextérité ou Constitution 14 ; membre de la Société des Éclaireurs affilié à l'École des 2pées<br></span></div>
 <hr>

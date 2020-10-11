@@ -1,5 +1,9 @@
 # Défense jumelée
 
+ * **Nom d'origine** : Twinned Defense (Fighter)
+ * **Niveau** : 16
+
+
 <p><strong>Prérequis</strong> Parade jumelée</p>
 <p><strong>Conditions</strong> Vous maniez deux armes de corps à corps, une dans chaque main</p>
 <hr>

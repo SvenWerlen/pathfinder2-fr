@@ -1,5 +1,9 @@
 # Maître des multiples postures
 
+ * **Nom d'origine** : Master of Many Styles
+ * **Niveau** : 16
+
+
 <p><strong>Prérequis</strong> Maître des postures</p>
 <p><strong>Conditions</strong> Vous effectuez la première action de votre tour</p>
 <hr>

@@ -1,5 +1,9 @@
 # Kata avancé
 
+ * **Nom d'origine** : Advanced Kata
+ * **Niveau** : 6
+
+
 <p><strong>Prérequis</strong> Kata basique</p>
 <hr>
 <p>Vous gagnez un don de moine. Afin de remplir ses prérequis, votre niveau de moine est égal à la moitié du niveau de votre personnage.</p>

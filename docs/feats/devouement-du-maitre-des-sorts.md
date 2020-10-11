@@ -1,5 +1,9 @@
 # Dévouement du Maître des sorts
 
+ * **Nom d'origine** : Spellmaster Dedication
+ * **Niveau** : 6
+
+
 <div><strong>Archetype </strong>@Compendium[pf2e.archetypes.25NJcH5SkWh1Tol7]{Maître des sorts}</div>
 <div><span><strong>Prérequis</strong> Intelligence, Sagesse ou Charisme 14 ; capacité à lancer des sorts de focalisation ; membre de la Société des Éclaireurs affilié à l'École des Sorts<br></span></div>
 <hr>

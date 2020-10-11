@@ -1,5 +1,9 @@
 # Ruse avancée
 
+ * **Nom d'origine** : Advanced Trickery
+ * **Niveau** : 6
+
+
 <p><strong>Prérequis</strong> Ruse basique</p>
 <hr>
 <p>Vous gagnez un don de roublard. Afin de remplir ses prérequis, votre niveau de roublard est égal à la moitié du niveau de votre personnage</p>

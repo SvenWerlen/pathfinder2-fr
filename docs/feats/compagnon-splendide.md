@@ -1,5 +1,9 @@
 # Compagnon splendide
 
+ * **Nom d'origine** : Splendid Companion
+ * **Niveau** : 12
+
+
 <p><strong>Archétype</strong> Dompteur</p>
 <p><strong>Prerequisites</strong> Compagnon adulte entraîné</p>
 <hr>

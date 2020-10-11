@@ -1,5 +1,9 @@
 # Combiner des élixirs
 
+ * **Nom d'origine** : Combine Elixirs
+ * **Niveau** : 6
+
+
 <p><strong>Fréquence</strong> une fois par round</p>
 <p><strong>Déclencheur</strong>Vous utilisez Alchimie rapide pour fabriquer un objet alchimique qui possède le trait élixir et qui est inférieur d’au moins 2 niveaux à votre niveau d’alchimie avancée.</p>
 <hr>

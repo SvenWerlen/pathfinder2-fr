@@ -1,5 +1,9 @@
 # Posture de tirs multiples
 
+ * **Nom d'origine** : Multishot Stance
+ * **Niveau** : 16
+
+
 <p><strong>Prérequis</strong> Triple tir</p> 
 <p><strong>Conditions</strong>  Vous maniez une arme à distance avec un rechargement 0.</p>
 <hr>

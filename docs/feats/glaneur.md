@@ -1,5 +1,9 @@
 # Glaneur
 
+ * **Nom d'origine** : Forager
+ * **Niveau** : 1
+
+
 <p><strong>Prérequis</strong> qualifié en Survie</p>
 <hr>
 <p>Quand vous utilisez Survie pour Subsister, si vous obtenez n’importe

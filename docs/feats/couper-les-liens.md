@@ -1,5 +1,9 @@
 # Couper les liens
 
+ * **Nom d'origine** : Cut the Bonds
+ * **Niveau** : 12
+
+
 <p><strong>Archétype</strong> Laboureur de la Campanule</p>
 <p><strong>Prérequis</strong> Dévouement de la Campanule, expert avec une arme au corps-à-corps</p>
 <hr>

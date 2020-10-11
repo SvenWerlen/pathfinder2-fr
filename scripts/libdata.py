@@ -4,6 +4,7 @@
 import os
 import re
 import unidecode
+import json
 
 
 #
@@ -87,12 +88,72 @@ def getFilename(name):
 
 
 #
+# cette fonction lit un compendium Foundry et ajoute les entrées dans un dict
+#
+def readCompendium(path):
+  entries = {}
+  with open(path, 'r') as f:
+    content = f.readlines()
+
+  for line in content:
+    try:
+      obj = json.loads(line)
+    except:
+      continue
+    
+    if '$$deleted' in obj:
+      continue
+    
+    entries[obj['_id']] = obj
+    
+  return entries
+
+
+#
 # cette fonction extrait l'information d'un fichier
 #
 def dataToFile(data, filepath):
   
   with open(filepath, 'w') as df:
     df.write("# %s\n\n" % data['nameFR'])
+    
+    if 'metadata' in data:
+      for m in data['metadata']:
+        df.write(" * **%s** : %s\n" % (m["title"], m["value"]))
+      df.write("\n\n")
+    
     df.write(data['descrFR'])
     
   return data
+
+#
+# cette fonction tente une extraction d'une valeur dans un objet
+# Ex: data.level.value => obj["data"]["level"]["value"]
+#
+def getValue(obj, path, exitOnError = True, defaultValue = None):
+  element = obj
+  for p in path.split('.'):
+    if p in element:
+      element = element[p]
+    elif exitOnError:
+      print("Error with path %s in %s" % (path, obj))
+      exit(1)
+    else:
+      print("Path %s not found for %s!" % (path, obj['name']))
+      return defaultValue
+  
+  if element is None:
+    return defaultValue
+  elif isinstance(element, int):
+    return "%02d" % element
+  elif isinstance(element, list):
+    if len(element) == 0:
+      return defaultValue
+    if len(element) > 1:
+      print("List has more than 1 element for '%s'! %s" % (element, path))
+      exit(1)
+    return element[0]
+  elif element.isdigit():
+    return "%02d" % int(element)
+  else:
+    return element

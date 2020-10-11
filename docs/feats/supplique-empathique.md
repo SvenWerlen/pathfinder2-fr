@@ -1,5 +1,9 @@
 # Supplique empathique
 
+ * **Nom d'origine** : Empathetic Plea
+ * **Niveau** : 1
+
+
 <p><strong>Prérequis </strong>qualifié en Diplomatie</p>
 <p><strong>Déclencheur</strong> Vous êtes attaqué par une créature contre laquelle vous ne vous êtes pas encore montré hostile. Vous devez utiliser cette réaction avant que la créature ne fasse son attaque.</p>
 <hr>

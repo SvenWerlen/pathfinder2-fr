@@ -1,5 +1,9 @@
 # Handicaps tactiques
 
+ * **Nom d'origine** : Tactical Debilitations
+ * **Niveau** : 10
+
+
 <p><strong>Prérequis</strong> trafic de scélérat, Frappe incapacitante</p>
 <hr>
 <p>Vous apprenez de nouveaux handicaps qui vous confèrent des avantages tactiques contre vos ennemis. Ajoutez les handicaps suivants à la liste de handicaps que vous utilisez avec Frappe incapacitante.&nbsp;</p>

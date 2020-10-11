@@ -1,5 +1,9 @@
 # Reconnaître des sorts
 
+ * **Nom d'origine** : Recognize Spell
+ * **Niveau** : 1
+
+
 <p><strong>Prérequis</strong> qualifié en Arcanes, Nature, Occultisme ou Religion</p>
 <p><strong>Déclencheur.</strong> Une créature dans votre ligne de mire incante un sort que vous n’avez pas préparé et qui ne figure pas dans votre répertoire, ou un piège ou un objet similaire incante un tel sort. Vous devez être conscient de l’incantation.</p>
 <hr>

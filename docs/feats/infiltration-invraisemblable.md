@@ -1,5 +1,9 @@
 # Infiltration invraisemblable
 
+ * **Nom d'origine** : Implausible Infiltration
+ * **Niveau** : 18
+
+
 <p><strong>Prérequis</strong> légendaire en Acrobaties, Se faufiler rapidement</p>
 <p><strong>Conditions</strong> Vous êtes adjacent à un plancher ou à un mur vertical</p>
 <hr>

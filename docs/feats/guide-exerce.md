@@ -1,5 +1,9 @@
 # Guide Exercé
 
+ * **Nom d'origine** : Practiced Guidance
+ * **Niveau** : 8
+
+
 <p><strong>Archétype</strong> Laboureur de la Campanule</p>
 <p><strong>Conditions</strong> Dévouement de la Campanule</p>
 <hr>

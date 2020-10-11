@@ -1,5 +1,9 @@
 # Bouclier du jugement
 
+ * **Nom d'origine** : Shield of Reckoning
+ * **Niveau** : 10
+
+
 <p><strong>Prérequis</strong>  allié divin (bouclier), Gardien au bouclier, principes du bien, réaction de champion</p>
 <p><strong>Déclencheur</strong> L’attaque d’un adversaire contre un allié déclenche à la fois votre réaction Blocage au bouclier et votre réaction de champion</p>
 <hr>

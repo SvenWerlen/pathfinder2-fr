@@ -1,5 +1,9 @@
 # Férocité orque
 
+ * **Nom d'origine** : Orc Ferocity
+ * **Niveau** : 1
+
+
 <p><strong> Fréquence </strong> une fois par jour </p>
 <p><strong> Déclencheur. </strong> Vous êtes réduit à 0 point de vie, mais ne mourez pas sur-le-champ. </p>
 <hr>

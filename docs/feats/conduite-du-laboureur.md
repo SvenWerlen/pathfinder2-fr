@@ -1,5 +1,9 @@
 # Conduite du Laboureur
 
+ * **Nom d'origine** : Tiller's Drive
+ * **Niveau** : 10
+
+
 <p><strong>Archétype</strong> Laboureur de la Campanule</p>
 <p><strong>Prérequis</strong> Dévouement de la Campanule</p>
 <hr>

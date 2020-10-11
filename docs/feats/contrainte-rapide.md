@@ -1,5 +1,9 @@
 # Contrainte rapide
 
+ * **Nom d'origine** : Quick Coercion
+ * **Niveau** : 1
+
+
 <p><strong>Prérequis</strong> qualifié en Intimidation</p>
 <hr>
 <p>Vous pouvez intimider les autres simplement par le choix de quelques
