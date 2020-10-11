@@ -39,9 +39,11 @@ for f in files:
   if isValid(data):
     if data['id'] in source:
       # add metadata
+      niveau = int(getValue(source[data['id']], "data.level.value", False, "01"))
+      data['level'] = niveau
       data['metadata'] = []
       data['metadata'].append( { 'title': "Nom d'origine", 'value': data['nameEN'] } )
-      data['metadata'].append( { 'title': "Niveau", 'value': int(getValue(source[data['id']], "data.level.value", False, "01")) } )
+      data['metadata'].append( { 'title': "Niveau", 'value': niveau } )
       list.append(data)
     else:
       print("Not found: %s" % data['id'])
@@ -56,10 +58,12 @@ list = sorted(list, key=lambda x: collator.getSortKey(x['nameFR']))
 #
 
 content = "# Dons de PF2\n\n"
+content += "| Nom   | Niveau |\n"
+content += "|-------|:------:|\n"
 
 for f in list:
   filename = getFilename(f['nameFR'])
-  content += " * [%s](%s.md)\n" % (f['nameFR'], filename)
+  content += "| [%s](%s.md) | %d |\n" % (f['nameFR'], filename, f['level'])
   dataToFile(f, "%s%s.md" % (DEST, filename))
 
 with open("%slist.md" % DEST, 'w') as df:
