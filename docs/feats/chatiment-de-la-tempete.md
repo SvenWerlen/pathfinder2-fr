@@ -1,4 +1,4 @@
-[Revenir à la liste](..)
+[Revenir à la liste](list.md)
 
 # Châtiment de la tempête
 

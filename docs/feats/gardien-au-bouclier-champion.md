@@ -1,4 +1,4 @@
-[Revenir à la liste](..)
+[Revenir à la liste](list.md)
 
 # Gardien au bouclier (Champion)
 

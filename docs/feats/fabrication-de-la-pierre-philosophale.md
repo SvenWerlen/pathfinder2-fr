@@ -1,4 +1,4 @@
-[Revenir à la liste](..)
+[Revenir à la liste](list.md)
 
 # Fabrication de la pierre philosophale
 

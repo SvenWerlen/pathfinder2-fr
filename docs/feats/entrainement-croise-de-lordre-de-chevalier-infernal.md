@@ -1,4 +1,4 @@
-[Revenir à la liste](..)
+[Revenir à la liste](list.md)
 
 # Entraînement croisé de l'Ordre de Chevalier infernal
 
