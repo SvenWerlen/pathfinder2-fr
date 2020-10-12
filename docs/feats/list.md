@@ -1254,3 +1254,4 @@
 | [Yeux célestes](yeux-celestes.md) | 1 |
 | [Yeux de la nuit](yeux-de-la-nuit.md) | 1 |
 | [Yeux fiélons](yeux-fielons.md) | 1 |
+{: .tablo .autoalt }

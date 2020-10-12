@@ -66,5 +66,7 @@ for f in list:
   content += "| [%s](%s.md) | %d |\n" % (f['nameFR'], filename, f['level'])
   dataToFile(f, "%s%s.md" % (DEST, filename))
 
+content += "{: .tablo .autoalt }"
+
 with open("%slist.md" % DEST, 'w') as df:
   df.write(content)
