@@ -1,7 +1,8 @@
 
 # Exemple
 
-Ce site est un exemple construit pour pathfinder2-fr
+Ce site est un exemple construit pour pathfinder2-fr.
+Theme créé sur mesure
 
 ## Sections
 
