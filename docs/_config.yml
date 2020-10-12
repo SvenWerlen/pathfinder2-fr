@@ -1,3 +1,6 @@
+remote_theme: SvenWerlen/pathfinderfr-theme@main
 title: Pathfinder-FR
 description: Site pour PF2 (test)
-theme: jekyll-theme-tactile
+
+plugins:
+  - jekyll-remote-theme
