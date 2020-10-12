@@ -1,3 +1,5 @@
 remote_theme: SvenWerlen/pathfinderfr-theme
 title: Pathfinder-FR
 description: Site pour PF2 (test)
+
+theme: jekyll-theme-tactile
